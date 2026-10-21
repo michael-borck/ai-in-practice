@@ -1,8 +1,8 @@
 # Exercise 3: Data Analysis Challenge — Facilitator Guide
 
-**Duration:** 45 minutes (1:45-2:30 PM)
-**Frameworks used:** AI-Assisted Analysis Workflow, RTCF Prompt Framework
-**Core learning:** AI can accelerate data analysis significantly, but verification is non-negotiable — AI makes errors with data and you must catch them.
+**Duration:** 45 minutes (1:45-2:30 PM, debrief may borrow 5 min from afternoon tea)
+**Frameworks used:** AI-Assisted Analysis Workflow, RTCF Prompt Framework, the Trust Tool (verification corner)
+**Core learning:** AI can accelerate data analysis significantly, but verification is non-negotiable — and the check must come from *outside* the model. The AI cannot reliably audit its own work; you, with the actual data, can. This is AI literacy in its most concrete form.
 
 ---
 
@@ -100,7 +100,7 @@ Distribute the Data Analysis Worksheet (if not already distributed).
 
 ---
 
-### Working Time (25 min) — 1:50 PM
+### Working Time (20 min) — 1:50 PM
 
 **Your role:** Circulate actively. This is the exercise where participants need the most hands-on guidance.
 
@@ -123,9 +123,10 @@ Distribute the Data Analysis Worksheet (if not already distributed).
 - If someone is stuck: "Start simple: ask for average satisfaction by category. That'll give you something to work with."
 - If someone finishes early: "Can you find patterns the AI missed? Try: 'What happens when you look at the combination of day of week AND channel?'"
 
-**Minutes 15-25 — push toward verification and presentation:**
-- "Have you verified any of the AI's findings yet?"
-- "Start formatting your brief — ask the AI to create a one-page summary for Karen."
+**Minutes 15-20 — shepherd everyone to the Challenge:**
+- "Have you verified any of the AI's findings yet? The Verification Challenge is where you do it properly."
+- "Reach Step 5.5 before building recommendations — audit what you have first."
+- "Start your one-page brief when you hit Step 7 — ask the AI to create the summary for Karen; it can format while we debrief."
 
 **Common issues:**
 
@@ -139,7 +140,27 @@ Distribute the Data Analysis Worksheet (if not already distributed).
 
 ---
 
-### Debrief (10 min) — 2:15 PM
+### Verification Challenge (10 min) — 2:10 PM
+
+Participants stop analysing and switch to auditing. The worksheet (Step 5.5) presents three claims about the data — one true, one plausible-but-fabricated, one directionally-right-but-numerically-wrong. They classify each: **Verified / Refuted / Overstated**. The challenge sits between Questions 2 and 3 on the worksheet deliberately — audit before building recommendations on top. Anyone lagging finishes the challenge during the debrief; anyone ahead starts their brief (Step 7).
+
+**Your script:**
+
+> "Three insights about this data are circulating. Each one sounds professional and plausible. At least one is wrong, and at least one is stated wrong. You have eight minutes: put a verdict and evidence against each claim. One rule — asking your AI 'is this right?' doesn't count. It will happily agree with itself. The ruling comes from the data."
+
+**Full answer key with teaching points:** `answer-keys.md` → "Verification Challenge — Answer Key". Quick reference:
+
+| Claim | Verdict | Why |
+|-------|---------|-----|
+| A: "Email is ~3x slower than Live Chat" | ✅ Verified | 13.2h vs 4.0h ≈ 3.3× |
+| B: "Account Issues has lowest satisfaction — most complex problems" | ❌ Refuted (twice) | Returns & Refunds is lowest (~1.6 vs ~3.1); Account Issues has the *highest* resolution rate (~96%) |
+| C: "Sunday response times are more than double the overall average" | ⚠️ Overstated | 13.7h vs 9.2h ≈ 1.5× — directionally right, numerically wrong |
+
+**Run it as a vote:** project the three claims, hands up per verdict, then reveal. Expect B to fool the most people. Expect splits on C — that split *is* the lesson: the direction feels true, so nobody checks the number.
+
+---
+
+### Debrief (10 min) — 2:20 PM
 
 **Question 1: "What were the top drivers of dissatisfaction?"**
 
@@ -167,7 +188,11 @@ Listen for: Sundays, Mondays, December, Email channel.
 
 > "This is the whole point of Step 4 in the workflow — Verify. AI is fast and it finds real patterns. But it also miscounts, confuses correlation with causation, and sometimes invents things. Your job is to be the quality control layer. AI does the heavy lifting; you check the work."
 
-If no one caught an error, ask: "Did anyone verify a specific number? What did you check, and was it right?" If nobody verified, that's a teaching moment too:
+**Then land the Verification Challenge reveal** (verdicts, teaching points and vote numbers in `answer-keys.md`):
+
+> "Claim B is the one to remember. It's fluent, it's professional, it has a plausible 'makes sense because' — and it's wrong twice. That's what AI output looks like when it goes wrong: not obvious nonsense, but a convincing average. The model carried the *form* of insight without the *substance*. The substance — the check — had to come from outside. That's what AI literacy actually is: not knowing magic prompt words, but being the person who runs the check the tool can't run on itself."
+
+If no one caught an error in their own analysis, ask: "Did anyone verify a specific number? What did you check, and was it right?" If nobody verified, that's a teaching moment too:
 
 > "Here's the honest truth: if you didn't verify, you don't actually know if those findings are correct. You have an analysis that looks professional and sounds convincing — but it might be wrong. The discipline of checking is what separates useful AI-assisted analysis from dangerous AI-assisted analysis."
 
@@ -187,8 +212,10 @@ If no one caught an error, ask: "Did anyone verify a specific number? What did y
 
 - [ ] All participants successfully uploaded or pasted the data
 - [ ] Most participants found the core patterns (category differences, response time patterns)
-- [ ] At least some participants verified an AI finding (even one number)
-- [ ] The debrief included discussion of AI errors or the importance of verification
+- [ ] Every table completed the Verification Challenge with evidence-based verdicts
+- [ ] Most participants correctly refuted Claim B and flagged Claim C as overstated
+- [ ] At least some participants verified an AI finding from their own analysis (even one number)
+- [ ] The debrief included the claim reveal and the "check from outside" lesson
 - [ ] Participants produced some version of the one-page brief (even rough)
 
 ---

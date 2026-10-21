@@ -6,7 +6,9 @@
 
 ## Overview
 
-A hands-on, bring-your-own-device workshop that builds practical AI skills for immediate workplace use. Participants learn to prompt AI tools effectively, analyse data with AI assistance, and identify where AI fits in their daily work. They leave with frameworks, templates, and a personal action plan, not theory.
+A hands-on, bring-your-own-device workshop that builds practical AI skills for immediate workplace use. Participants learn to brief AI tools effectively, analyse data with AI assistance, and identify where AI fits in their daily work. They leave with frameworks, templates, and a personal action plan, not theory.
+
+**The one idea:** everyone has the same AI tools, so generic competence is the baseline. The edge is judgement — and it's taught through one grid, the trust tool (Average/Precise × Small/Large), that runs through every session.
 
 **Duration:** 1 day (9:00 AM – 4:30 PM)
 
@@ -51,11 +53,11 @@ Four sessions, four frameworks, four hands-on exercises.
 
 ## What Participants Learn
 
-**Session 1 — AI Foundations:** What AI tools actually do (and don't do). How to assess whether a task is suitable for AI. Hands-on comparison of ChatGPT, Claude, and Gemini.
+**Session 1 — AI Foundations:** What AI tools actually do (and don't do) — and the convincing average they produce. The trust tool: a grid for deciding how much to trust any output. How to assess whether a task is suitable for AI. Hands-on comparison of ChatGPT, Claude, and Gemini.
 
-**Session 2 — Prompt Engineering:** A repeatable framework for getting useful output from AI. Three rounds of progressive skill-building across real workplace scenarios — drafting emails, summarising documents, writing reports.
+**Session 2 — Prompt Engineering:** Conversation, not delegation — a repeatable briefing framework for getting useful output from AI. Three rounds of progressive skill-building across real workplace scenarios — drafting emails, summarising documents, writing reports.
 
-**Session 3 — Data Analysis:** How to use AI to find patterns in data and produce business insights. Participants analyse a customer service dataset and produce a one-page brief — with emphasis on verifying AI output.
+**Session 3 — Data Analysis:** How to use AI to find patterns in data and produce business insights. Participants analyse a customer service dataset, produce a one-page brief, and run a Verification Challenge: three planted claims about the data, at least one of them wrong — checked against the data, not the AI's confidence.
 
 **Session 4 — Your Workflow:** Participants pick a real task from their own job, map it, and redesign it with AI at the steps where it adds value. They test at least one step live.
 
@@ -63,7 +65,7 @@ Four sessions, four frameworks, four hands-on exercises.
 
 ## What Participants Take Home
 
-- Frameworks reference sheet (4 reusable decision tools)
+- Frameworks reference sheet (4 reusable decision tools, tied together by the trust tool)
 - Personal prompt library (built during the workshop)
 - Before/after workflow redesign (for a real task from their job)
 - Action plan with specific commitments for this week, this month, and this quarter

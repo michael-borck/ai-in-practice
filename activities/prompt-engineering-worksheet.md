@@ -15,6 +15,8 @@ You'll work through 6 workplace scenarios in three rounds:
 
 **Choose any 3 of the 6 scenarios below.**
 
+> **The mindset for Round 2:** conversation, not delegation. You are not casting a spell — you are briefing a capable junior colleague who knows nothing about your job. Everything you'd tell a smart new hire before they drafted this for you — who it's for, what happened, what good looks like — belongs in the prompt. That background is the part the AI cannot supply itself; it's the substance only you have.
+
 ---
 
 ## Scenario 1: The Difficult Client Email

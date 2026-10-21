@@ -11,6 +11,10 @@
 **Style:** Hands-on BYOD workshop with guided exercises
 **Goal:** Build practical AI literacy and hands-on skills for immediate workplace application. This is a skills-based workshop — not a strategic leadership or project management course.
 
+**The one idea that runs through the day:** when everyone has access to the same AI, generic competence is the baseline, not the advantage. The edge moves to your judgement — knowing what to ask for, when to trust the answer, and where a human must stay in charge. That judgement is trained, not assumed, and it is the discipline of *supplying what the tool can't*: the grounding, the context, and above all the independent verification. (This framing is drawn from *Conversation, Not Delegation* and the Cognitive Strategy Transfer paper — see Source Attribution.)
+
+**The spine: the trust tool.** One grid — **Average/Precise × Small/Large** — taught once in Session 1 and reused in every exercise for the rest of the day. It turns "can I trust this output?" into two answerable questions: do I need an average, or precision? And are the stakes small, or large?
+
 ---
 
 ## Series Context
@@ -60,14 +64,20 @@ This is Course 1 of a three-part executive education series:
 
 **9:15-9:50 — What AI Actually Is (35 min)**
 - Demystifying AI: what's happening "under the hood" (conceptual, not technical)
+- The key insight: AI produces a **convincing average** — fluent, well-shaped, usually about right. But "about right" and "exactly right" are not the same, and knowing which you need is the whole game
 - Types of AI tools professionals encounter: chatbots, copilots, generators, analysers
 - What AI is good at vs. what it's bad at
-- **Framework 1: AI Task Suitability Spectrum** — a mental model for deciding when to use AI
+- **The Trust Tool (Average/Precise × Small/Large)** — the grid that runs through the whole day:
+  - **Average or precision?** Is "in the ballpark" fine, or is there one right answer where close = wrong?
+  - **Small or large stakes?** Easy to reverse, or real consequences?
+  - Four corners: Lean in · Lean in, with a glance · Use, then verify · Human in the loop
+- **Framework 1: AI Task Suitability Spectrum** — a mental model for deciding *which* tasks to bring to AI (the trust tool tells you *how much* to trust the output; the Spectrum tells you *whether* the task belongs with AI at all)
 
 **9:50-10:30 — Exercise 1: AI Tool Test Drive (40 min)**
 - Same workplace task across 3 AI tools (ChatGPT, Claude, Gemini)
 - Compare outputs: quality, style, accuracy, hallucinations
 - Group discussion: what surprised you? What would you trust? What wouldn't you?
+- **Apply the trust tool:** place each output on the grid — where was an average good enough, and where did it need to be exactly right?
 - **Output:** Personal notes on tool strengths and preferred tool for different tasks
 
 ---
@@ -80,10 +90,11 @@ This is Course 1 of a three-part executive education series:
 
 **11:00-11:30 — The Art of Effective Prompting (30 min)**
 - Why "garbage in, garbage out" applies to AI
-- **Framework 2: RTCF Prompt Framework**
+- **The reframe: conversation, not delegation.** Prompting is not casting a spell or typing an incantation. It is briefing a capable but context-free junior colleague — everything you'd tell a smart new hire before they draft something for you is what belongs in the prompt. The tool supplies the form of the work; you supply the substance it can't: the intent, the background, the standard it will be judged against
+- **Framework 2: RTCF Prompt Framework** — the briefing structure:
   - **Role** — Who should the AI be? (e.g., "You are an experienced financial analyst")
   - **Task** — What should it do? (e.g., "Summarise this quarterly report")
-  - **Context** — What background does it need? (e.g., "This is for a board presentation")
+  - **Context** — What background does it need? (e.g., "This is for a board presentation") — *this is the grounding only you can supply*
   - **Format** — How should the output look? (e.g., "3 bullet points, executive language")
 - Common prompt patterns: chain-of-thought, few-shot examples, iterative refinement
 - Anti-patterns: vague instructions, missing context, not specifying constraints
@@ -131,9 +142,10 @@ This is Course 1 of a three-part executive education series:
   1. What are the top 3 drivers of customer dissatisfaction?
   2. Are there patterns in when response times blow out?
   3. What would you recommend to the customer service manager?
+- **Verification Challenge (the core lesson):** participants receive three "insight claims" about the data — one true, one plausible-but-fabricated, one directionally-right-but-numerically-wrong. They must classify each against the actual CSV: **Verified / Refuted / Overstated.** The lesson: fluency is not evidence; a check the model cannot run on itself must come from outside. This is AI literacy in its most concrete form — the discipline of independent verification
 - Work individually or in pairs
-- **Debrief (10 min):** Compare findings across groups — did AI give everyone the same answers?
-- **Output:** A one-page insight brief generated with AI assistance
+- **Debrief (10 min):** Compare findings across groups — did AI give everyone the same answers? Which of the three claims fooled whom?
+- **Output:** A one-page insight brief generated with AI assistance — with every load-bearing number verified
 
 ---
 
@@ -168,12 +180,13 @@ This is Course 1 of a three-part executive education series:
 ### Wrap-up & Action Planning (4:00-4:30)
 
 **4:00-4:15 — Framework Synthesis (15 min)**
-- Recap the 4 frameworks:
-  1. **AI Task Suitability Spectrum** — Know when to use AI
-  2. **RTCF Prompt Framework** — Know how to talk to AI
-  3. **AI-Assisted Analysis Workflow** — Know how to use AI with data
-  4. **AI Opportunity Finder** — Know where AI fits in your work
-- Key principles: human-in-the-loop, verify before you trust, start small, iterate
+- Recap the spine and the 4 frameworks:
+  - **The Trust Tool (Average/Precise × Small/Large)** — the spine: know how much to trust any output, on any tool
+  1. **AI Task Suitability Spectrum** — Know *whether* a task belongs with AI
+  2. **RTCF Prompt Framework** — Know how to *brief* AI (conversation, not delegation)
+  3. **AI-Assisted Analysis Workflow** — Know how to use AI with *data*, with verification built in
+  4. **AI Opportunity Finder** — Know *where* AI fits in your work
+- Key principles: conversation not delegation, verify before you trust (from outside — the model can't check itself), start small, iterate
 
 **4:15-4:30 — Personal Action Planning (15 min)**
 - **This week:** What is the ONE AI tool or technique you'll try?
@@ -184,7 +197,29 @@ This is Course 1 of a three-part executive education series:
 
 ---
 
-## The 4 Practical Frameworks
+## The Trust Tool and the 4 Practical Frameworks
+
+### The Spine: The Trust Tool (Average/Precise × Small/Large)
+**What:** One grid that turns "can I trust this output?" into two answerable questions
+**When taught:** 9:15-9:50 AM (woven into What AI Actually Is)
+**Reused:** Every exercise for the rest of the day
+
+**Two questions:**
+- **Q1: Average or precision?** Is "in the right ballpark" fine (drafts, summaries, starting points), or is there a single correct value where close is the same as wrong (figures, citations, names, numbers)?
+- **Q2: Small or large stakes?** Easy to reverse and cheap to get wrong, or real consequences (money, safety, reputation, someone's job)?
+
+**The four corners:**
+
+|  | **Small (low stakes)** | **Large (high stakes)** |
+|---|---|---|
+| **Average is fine** | **Lean in.** Let AI run. | **Lean in, with a glance.** Sanity-check before it goes out. |
+| **Precision required** | **Use, then verify.** Confirm the specifics. | **Human in the loop.** A person owns the decision. |
+
+**Key principle:** *"AI produces a convincing average. Your judgement — knowing when the average is enough — is the edge."*
+
+**Why it's the spine:** the Suitability Spectrum tells you *whether* to bring a task to AI. The trust tool tells you *how much* to trust what comes back — at your desk, and later, at project scale (see The Human Edge in the series).
+
+---
 
 ### Framework 1: AI Task Suitability Spectrum
 **What:** A mental model for quickly assessing whether a task is suitable for AI assistance
@@ -202,17 +237,17 @@ This is Course 1 of a three-part executive education series:
 ---
 
 ### Framework 2: RTCF Prompt Framework
-**What:** A repeatable structure for writing effective prompts
+**What:** A repeatable structure for briefing AI — conversation, not delegation
 **When taught:** 11:00-11:30 AM (30 min)
 **Practiced:** Exercise 2 — Prompt Engineering Workshop (11:30-12:30 PM, 60 min)
 
 **Four components:**
 - **Role** — Set the AI's expertise and perspective
 - **Task** — Define the specific action clearly
-- **Context** — Provide relevant background and constraints
+- **Context** — Provide relevant background and constraints — the grounding only you can supply
 - **Format** — Specify the desired output structure
 
-**Key principle:** *"The quality of your output is directly proportional to the quality of your input."*
+**Key principle:** *"The tool returns the form of the work; you supply the substance. Brief it as you would a capable junior colleague — everything a smart new hire would need to know belongs in the prompt."*
 
 ---
 
@@ -225,11 +260,11 @@ This is Course 1 of a three-part executive education series:
 1. **Prepare** — Define the question before touching the tool
 2. **Upload** — Get data into the AI appropriately
 3. **Question** — Ask progressively deeper questions
-4. **Verify** — Cross-check against what you know
+4. **Verify** — Check the AI's claims against the data itself, from outside the model (the model cannot reliably check its own work)
 5. **Refine** — Iterate based on findings
 6. **Present** — Format for your audience
 
-**Key principle:** *"AI finds patterns fast, but humans decide what patterns mean."*
+**Key principle:** *"AI finds patterns fast, but humans decide what patterns mean — and only an external check tells a real pattern from a convincing fake."*
 
 ---
 
@@ -267,10 +302,10 @@ This is Course 1 of a three-part executive education series:
 ---
 
 ### Exercise 3: Data Analysis Challenge (1:45-2:30, 45 min)
-**What:** Analyse a real dataset using AI to answer business questions
-**Framework used:** AI-Assisted Analysis Workflow
-**Materials needed:** BYOD, RetailFlow customer service dataset (CSV), analysis worksheet
-**Output:** One-page insight brief generated with AI assistance
+**What:** Analyse a real dataset using AI to answer business questions — then verify claims against the data itself
+**Framework used:** AI-Assisted Analysis Workflow + the Trust Tool (verification corner)
+**Materials needed:** BYOD, RetailFlow customer service dataset (CSV), analysis worksheet, Verification Challenge claims (on worksheet)
+**Output:** One-page insight brief generated with AI assistance, with load-bearing numbers independently verified
 
 ---
 
@@ -284,8 +319,9 @@ This is Course 1 of a three-part executive education series:
 
 ## What Participants Need
 
-**Before the course (48 hours prior):**
-- Ensure access to at least 2 AI tools (free tiers are fine):
+**Before the course (requested via the 72-hour reminder email — see facilitator checklist below):**
+- **Bring a laptop, not a tablet** — the exercises need multiple browser tabs and file uploads
+- Create an account on at least 2 AI tools beforehand (free tiers are fine), and log in once from the device you'll bring:
   - ChatGPT: [chat.openai.com](https://chat.openai.com)
   - Claude: [claude.ai](https://claude.ai)
   - Google Gemini: [gemini.google.com](https://gemini.google.com)
@@ -294,9 +330,11 @@ This is Course 1 of a three-part executive education series:
 
 **During the course (BYOD REQUIRED):**
 - Laptop (not tablet — you'll need multiple browser tabs)
-- Active accounts on at least 2 AI platforms
+- Active accounts on at least 2 AI platforms, logged in before 9:00 AM
 - Note-taking capability
 - A real task or dataset from your work (optional, for Exercise 4)
+
+**No laptop? Nobody misses out.** Exercises 1-3 work in pairs (one laptop between two is fine — comparing outputs is the point). Exercise 4 is paper-based: butcher paper and markers cover it. A phone is a degraded-but-workable fallback for quick prompts.
 
 **Take home:**
 - Frameworks reference sheet (PDF)
@@ -310,12 +348,13 @@ This is Course 1 of a three-part executive education series:
 ## How to Deliver This Course
 
 ### Before the Course (1 Week Prior)
-1. Send pre-reading to participants
-2. Send "tech check" email: ensure participants can access AI tools
+1. Reply to the Executive Education logistics email — request printing (frameworks reference sheet + all three worksheets), stationery (butcher paper, markers, Post-its for Exercise 4), and ask for the pre-reading **and tech check to be included in the 72-hour reminder** (see `instructor-materials/reply-to-nicole-logistics.md` for the draft)
+2. Confirm with the coordinator that venue wifi allows access to AI platforms (corporate firewalls are the #1 failure mode) and that tables have power access
 3. Prepare RetailFlow dataset (CSV) for Exercise 3
 4. Print frameworks reference sheet (1 per participant)
-5. Print workflow mapping templates (1 per participant)
+5. Print all three worksheets (1 set per participant)
 6. Test all AI tools — ensure they're accessible from the venue network
+7. Add the **feedback QR code to the final slide** and hold the last 5 minutes for participants to complete it (per coordinator request)
 
 ### Course Requirements
 
@@ -387,6 +426,10 @@ The gap this fills: participants in the Leadership and Innovation courses consis
 ## Source Attribution
 
 Part of the Executive AI Education series developed by Dr. Michael Borck, Curtin Business School.
+
+**Intellectual core of this refresh:**
+- *Conversation, Not Delegation* (companion book, free online): <https://michael-borck.github.io/conversation-not-delegation/> — the source of the trust tool and the briefing-not-incantation framing of prompting
+- Borck, M. (2026). *Cognitive Strategy Transfer: Why Human Complexity-Management Strategies Improve Large Language Model Performance* (ACIS 2026) — the research grounding for teaching AI literacy as the discipline of supplying substance, above all independent verification
 
 **Series:**
 - Course 1: Practical AI for Professionals (this course)

@@ -236,6 +236,47 @@
 
 ---
 
+### Verification Challenge — Answer Key (NEW for 2026 refresh)
+
+The three claims on the worksheet (Step 5.5) are calibrated against the real CSV. Reveal after tables have voted; ask for a show of hands per claim before giving each verdict.
+
+#### Claim A: "Email is roughly three times slower than Live Chat."
+**Verdict: ✅ VERIFIED**
+
+| Channel | Avg response time |
+|---------|-------------------|
+| Live Chat | ~4.0h |
+| Email | ~13.2h |
+
+13.2 ÷ 4.0 ≈ 3.3×. Accurate as stated.
+
+**Teaching point:** the true claim feels no more *confident* than the fake ones. Verification doesn't just catch errors — it earns you the right to trust. This is the trust tool's "use, then verify" corner.
+
+#### Claim B: "Account Issues has the lowest satisfaction of any category — which makes sense, because account problems are the most complex to resolve."
+**Verdict: ❌ REFUTED (twice)**
+
+Actual satisfaction by category: Returns & Refunds **~1.6** (lowest), Delivery Problems ~2.2, Billing Queries ~2.8, **Account Issues ~3.1** — mid-pack, not last.
+
+And the "complex problems" mechanism collapses too: Account Issues has the **highest resolution rate of any category (~96%)** — by the data's own measure, these are the *easiest* problems the team resolves.
+
+**Teaching point (the convincing fake):** this is the dangerous one. Plausible mechanism ("makes sense, because..."), professional tone, wrong twice over. It carries the full *form* of insight without the substance. If forwarded to Karen, she'd redirect effort away from the real problem (Returns & Refunds). Note the trap also mirrors Gell-Mann amnesia: it sounds right precisely because it pattern-matches to "complex = frustrating".
+
+#### Claim C: "Sunday response times are more than double the overall average."
+**Verdict: ⚠️ OVERSTATED**
+
+Overall average response time: **~9.2h**. Sunday: **~13.7h**. That is ~1.5×, not 2×+. Directionally right — Sunday is by far the worst day — but the specific number is wrong.
+
+**Teaching point (precision):** this claim maps straight onto the trust grid. If Karen uses it to build a Sunday staffing business case, "double" inflates the case by a third. When a number will drive a decision, it's a *precision* task — "close is the same as wrong." This is the refresh's core lesson in one card: the claim *sounds* like an average-shaped remark, but the decision it feeds is precision-shaped.
+
+#### Facilitation notes for the Challenge
+
+- **Timing:** ~10 min inside the exercise (8 min verifying + reveal during debrief). The worksheet flags the debrief may borrow 5 minutes from afternoon tea.
+- **Run it as a vote:** claims A, B, C on the projector → hands up for Verified / Refuted / Overstated on each → then reveal. Expect Claim B to fool the most people; expect splits on C (many will vote Verified because "Sunday is worst" is true and they didn't check the arithmetic — that split is the lesson).
+- **If time is short:** drop Claim A (the verified one) and reveal it verbally — the learning lives in B and C.
+- **Connect forward:** in the wrap-up, this is the slide where the trust tool earns its "spine" title — B was a *judgement* failure (Gell-Mann amnesia / plausible mechanism), C was a *precision* failure. Different corners of the grid, same defence: an external check.
+
+---
+
 ## Exercise 4: AI-Enhanced Workflow
 
 ### What Good Workflow Redesigns Look Like

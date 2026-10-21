@@ -117,6 +117,10 @@ Listen for:
 
 > "This is exactly why the first framework matters — the AI Task Suitability Spectrum. This people-management scenario sits in the Human-Led, AI-Supported zone. AI can help you think through the situation and draft a plan — but the conversation itself, the empathy, reading the room? That's Human-Only."
 
+**Then apply the trust tool** (first reuse of the day — make it explicit):
+
+> "Now the trust tool. This output: is an average good enough, or did it need to be exactly right? Mostly average — it's a starting plan you'd shape. Stakes? Large-ish — someone's job. That's the 'lean in, with a glance' corner: useful, but you sanity-check before anything happens. Notice we used it without noticing. That's the point — you'll use this grid on every output today."
+
 **Question 3: "If you could only use one tool going forward, which would you pick and why?"**
 
 Listen for:
@@ -135,7 +139,7 @@ Listen for:
 
 > "You just saw what happens when you give AI a prompt without any special technique — you get something usable but imperfect, and different tools give different results.
 >
-> After the break, we're going to learn how to dramatically improve what you get back. The difference between a lazy prompt and a structured one is night and day. You'll experience it yourself."
+> After the break, we're going to dramatically improve what you get back. And here's a hint about how: it's less about clever wording than you'd think. The reframe is that prompting isn't a spell — it's a briefing. Everything you'd tell a capable junior colleague before they drafted this for you belongs in the prompt. You'll experience the difference yourself."
 
 ---
 

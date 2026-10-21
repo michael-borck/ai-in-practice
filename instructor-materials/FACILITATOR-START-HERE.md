@@ -10,8 +10,8 @@
 
 | When | What to Do |
 |------|-----------|
-| **1 week before** | Read this guide end-to-end. Read all 4 exercise guides. Check technology. |
-| **48 hours before** | Send pre-reading and tech check email to participants. |
+| **1 week before** | Read this guide end-to-end. Read all 4 exercise guides. Check technology. Reply to the Exec Ed logistics email (printing, stationery, request pre-reading + tech check go in the 72-hour reminder — see `reply-to-nicole-logistics.md`). |
+| **72 hours before** | Coordinator reminder goes out with pre-reading + BYOD tech check (laptop, AI accounts created and tested). |
 | **Day before** | Print materials. Test venue wifi against AI tool access. Set up room. |
 | **Morning of** | Arrive 30 min early. Test projector. Open all AI tools in browser tabs. |
 | **During course** | Follow the timeline below. Open each exercise guide 10 min before that session. |
@@ -21,6 +21,8 @@
 ## What You're Teaching
 
 This is a **hands-on skills workshop**, not a strategic masterclass. The other two courses in the series teach executives where to invest in AI and how to manage AI projects. This course teaches professionals how to actually use AI tools in their daily work.
+
+**The idea that runs through the day:** everyone has the same AI tools, so generic competence is the baseline. The edge is judgement — knowing what to ask for, when to trust the answer, and where a human stays in charge. The **trust tool** (Average/Precise × Small/Large) is how that judgement is taught: one grid, introduced in Session 1, reused in every exercise. Two framing phrases to keep returning to: **"a convincing average"** (why verification matters) and **"conversation, not delegation"** (prompting is briefing a capable junior colleague, not casting a spell).
 
 ### The Four Exercises Build on Each Other
 
@@ -33,7 +35,7 @@ This is a **hands-on skills workshop**, not a strategic masterclass. The other t
 
 **The arc of the day:** Orientation → Skill-building → Application → Personalisation
 
-By 4:30 PM, every participant should be able to articulate: *"Here's what I'll use AI for, here's how I'll prompt it, and here's where I'll keep a human in the loop."*
+By 4:30 PM, every participant should be able to articulate: *"Here's what I'll use AI for, here's how I'll brief it, and here's how I'll decide what to trust."*
 
 ---
 
@@ -74,8 +76,10 @@ You need to be a good facilitator who understands the frameworks. If an AI tool 
 
 **Key teaching points for the lecture:**
 - AI predicts the next word — it's pattern-matching, not thinking
+- The convincing average: output is fluent and usually about right, but "about right" and "exactly right" are different, and knowing which you need is the whole game
+- **The trust tool (the spine):** Average/Precise × Small/Large → four corners (Lean in · Glance · Use, then verify · Human in the loop). Verification comes from outside the tool — the model can't check itself
 - Different tools, different strengths (no single "best" tool)
-- The AI Task Suitability Spectrum: AI-Led → AI-Assisted → Human-Led → Human-Only
+- The AI Task Suitability Spectrum: AI-Led → AI-Assisted → Human-Led → Human-Only (which tasks belong with AI; the trust tool then governs how much to trust the output)
 - Hallucination is real and dangerous — AI never says "I don't know"
 
 **Transition to Exercise 1:** "You've heard me talk about what AI can and can't do. Now let's test that. You're about to give three different AI tools the exact same task and see what happens."
@@ -97,8 +101,8 @@ You need to be a good facilitator who understands the frameworks. If an AI tool 
 | 11:30 | 60 min | **Exercise 2: Prompt Engineering Workshop** | Circulate, compare outputs, facilitate debrief |
 
 **Key teaching points for the lecture:**
-- "Garbage in, garbage out" applies to AI more than anything
-- RTCF: Role, Task, Context, Format — a repeatable structure
+- The reframe: conversation, not delegation — prompting is briefing a capable junior colleague, not reciting magic words
+- RTCF: Role, Task, Context, Format — the briefing structure; Context is the grounding only the user can supply
 - Show a live before/after demo: write a bad prompt, get bad output, rewrite with RTCF, get good output
 - Common mistakes: too vague, no context, no format, not iterating
 - Context windows: what they are, why they matter
@@ -126,9 +130,10 @@ You need to be a good facilitator who understands the frameworks. If an AI tool 
 **Key teaching points for the lecture:**
 - Define the question BEFORE you touch the tool (Prepare step)
 - Progressive questioning: start broad, go deeper
-- Verification is non-negotiable — AI makes arithmetic and logic errors with data
+- Verification is non-negotiable — and it comes from outside the tool (the model can't reliably audit its own work). A number that drives a decision is a precision task: close is the same as wrong
 - Privacy: what data should never go into free AI tools
 - The 6-step workflow: Prepare → Upload → Question → Verify → Refine → Present
+- Flag the Verification Challenge: three planted claims will test exactly this skill in the exercise
 
 **Energy management:** This is the post-lunch slot. The data analysis exercise is interactive and hands-on, which helps. Keep your lecture tight (30 min max) and get them working with data quickly.
 
@@ -169,17 +174,19 @@ You need to be a good facilitator who understands the frameworks. If an AI tool 
 
 **Framework synthesis — your script:**
 
-> "Let's step back and look at what you've built today. You now have four tools:
+> "Let's step back and look at what you've built today. One thread ran through everything: the **trust tool**. Average or precise? Small stakes or large? That grid told you how much to trust every output today, and it'll work on whatever tool exists next year.
+>
+> And you now have four frameworks hanging on that spine:
 >
 > 1. The **Suitability Spectrum** tells you WHEN to use AI — not every task needs it, and some tasks should stay human-only.
 >
-> 2. **RTCF** tells you HOW to talk to AI — Role, Task, Context, Format. You experienced the difference between a lazy prompt and a structured one.
+> 2. **RTCF** tells you HOW to brief AI — conversation, not delegation. You experienced the difference between a vague request and a proper brief.
 >
-> 3. The **Analysis Workflow** tells you how to use AI WITH DATA — and why verification is non-negotiable. Some of you caught the AI making errors today. That's the skill.
+> 3. The **Analysis Workflow** tells you how to use AI WITH DATA — and why verification comes from outside the tool. Some of you caught planted claims today that sounded perfect and weren't. That's the skill.
 >
 > 4. The **Opportunity Finder** tells you WHERE ELSE in your work AI can help — and you've already mapped one real workflow.
 >
-> The key principle across all four: **AI is a tool, not a colleague. You own the output and the decisions.**"
+> The key principle across all of it: **everyone in this room has the same tools. Your judgement — the briefing, the trust call, the check — is the edge. You own the output and the decisions.**"
 
 **Action planning:**
 - Distribute the Personal Action Plan template
@@ -290,7 +297,8 @@ Seat experienced users with beginners (if you can control seating). Give advance
 | Exercise 2 guide | `exercise-2-facilitator-guide.md` | 11:20 AM |
 | Exercise 3 guide | `exercise-3-facilitator-guide.md` | 1:35 PM |
 | Exercise 4 guide | `exercise-4-facilitator-guide.md` | 3:10 PM |
-| Answer keys | `answer-keys.md` | Reference throughout |
+| Answer keys | `answer-keys.md` | Reference throughout — incl. Verification Challenge verdicts |
+| Exec Ed logistics reply | `reply-to-nicole-logistics.md` | 1 week before (printing, stationery, 72h reminder wording) |
 
 ### Room Setup
 
@@ -306,12 +314,15 @@ Seat experienced users with beginners (if you can control seating). Give advance
 
 By end of day, you should observe:
 
-- [ ] Participants writing structured prompts without being reminded (RTCF is internalised)
+- [ ] Participants writing structured briefs without being reminded (RTCF is internalised)
+- [ ] The trust tool language shows up in their conversations ("this is average, low stakes — lean in")
 - [ ] At least one "the AI got it wrong!" moment that the group learned from
+- [ ] Most tables caught Claim B (the convincing fake) in the Verification Challenge
 - [ ] Participants talking about their real work, not just the exercises
 - [ ] Multiple people saying some version of "I'm going to try this on Monday"
 - [ ] The action plans have specific, concrete commitments — not vague intentions
 - [ ] The room energy stays engaged through the afternoon (Exercise 3 and 4 keep energy up)
+- [ ] Feedback QR completed by most participants in the final 5 minutes
 
 ---
 

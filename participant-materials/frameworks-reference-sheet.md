@@ -9,24 +9,28 @@ Curtin Business School
 
 ---
 
-*Your quick-reference guide to the four practical frameworks*
+*Your quick-reference guide to the trust tool and the four practical frameworks*
 
 </div>
 
 <div style="page-break-after: always; padding: 3rem 2rem;">
 
-## Four Practical Frameworks
+## The Spine and the Four Frameworks
 
-This reference sheet provides quick access to the four frameworks taught in the Practical AI for Professionals Masterclass.
+This reference sheet provides quick access to the trust tool and the four frameworks taught in the Practical AI for Professionals Masterclass.
 
 ### What You'll Find:
+
+**The Trust Tool (the spine)**
+- One grid: Average/Precise × Small/Large
+- Decide how much to trust any AI output, on any tool
 
 **Framework 1: AI Task Suitability Spectrum**
 - Decide when AI can help and when it can't
 - Four zones from AI-Led to Human-Only
 
 **Framework 2: RTCF Prompt Framework**
-- Structure effective prompts for any AI tool
+- Structure effective briefs for any AI tool — conversation, not delegation
 - Four components: Role, Task, Context, Format
 
 **Framework 3: AI-Assisted Analysis Workflow**
@@ -56,6 +60,48 @@ This reference sheet provides quick access to the four frameworks taught in the 
 **Questions:** michael.borck@curtin.edu.au
 
 </div>
+
+<div style="page-break-after: always;"></div>
+
+## The Trust Tool: The Spine of the Day
+
+**Purpose:** Decide how much to trust any AI output — before you act on it
+
+**The question it answers:** *"Can I trust this, and how much checking does it need?"*
+
+---
+
+### The Key Insight
+
+AI produces a **convincing average**: fluent, well-shaped, usually about right. But "about right" and "exactly right" are not the same thing — and knowing which one you need is the whole game. The tool carries the form of good work; you supply the substance it can't: the context, the judgement, and the check.
+
+### Two Questions
+
+**Q1 — Do you need an average, or precision?**
+- **Average** = "in the ballpark" is fine: a first draft, a summary, a starting point you'll shape
+- **Precise** = one correct value, where close is the same as wrong: figures, citations, names, numbers
+
+**Q2 — Are the stakes small or large?**
+- **Small** = easy to reverse, cheap to get wrong, no one harmed
+- **Large** = real consequences: money, safety, reputation, someone's job
+
+### The Four Corners
+
+|  | **Small (low stakes)** | **Large (high stakes)** |
+|---|---|---|
+| **Average is fine** | **Lean in.** Let AI run. | **Lean in, with a glance.** Sanity-check before it goes out. |
+| **Precision required** | **Use, then verify.** Confirm the specifics. | **Human in the loop.** A person owns the decision. |
+
+### Remember
+
+- **Lean in** where "about right" over low stakes is fine
+- **Keep a human in the loop** where exactly-right meets high stakes
+- **Verification comes from outside the tool.** Asking the AI to check its own work doesn't count — check against the data, the source, or an independent standard
+- Fluency is not evidence. The smoother the output, the more reason to check the load-bearing parts
+
+*From* Conversation, Not Delegation *(michael-borck.github.io/conversation-not-delegation)*
+
+---
 
 <div style="page-break-after: always;"></div>
 
@@ -192,9 +238,11 @@ Ask yourself these questions about any task:
 
 ## Framework 2: RTCF Prompt Framework
 
-**Purpose:** Write effective prompts that get useful AI output on the first or second try
+**Purpose:** Brief AI effectively so it gets useful output on the first or second try
 
 **The question it answers:** *"How do I ask AI for what I actually need?"*
+
+**The mindset — conversation, not delegation:** prompting is not an incantation. It's briefing a capable junior colleague who knows nothing about your job. Everything you'd tell a smart new hire before they drafted this for you belongs in the prompt. The tool returns the form of the work; you supply the substance — the intent, the background, the standard it will be judged against.
 
 ---
 
@@ -242,7 +290,7 @@ Tell the AI exactly what to do.
 
 Give the AI the background it needs.
 
-**Why it matters:** AI doesn't know your company, your audience, your history, or your constraints. Without context, it gives generic output.
+**Why it matters:** AI doesn't know your company, your audience, your history, or your constraints. Without context, it gives generic output. Context is the *grounding* only you can supply — it's the part of the work the tool genuinely cannot do for you.
 
 **Types of context to provide:**
 - **Audience:** "This is for senior executives who are not technical"
@@ -713,10 +761,11 @@ Step 4: WHERE else in my work can AI help?
 
 ### The One-Line Version
 
-| Framework | Remember This |
+| Tool | Remember This |
 |-----------|--------------|
+| **Trust Tool** | Average or precise? Small or large stakes? That tells you how much to check |
 | **Suitability Spectrum** | Not every task needs AI — know the zones |
-| **RTCF** | Role, Task, Context, Format — every time |
+| **RTCF** | Role, Task, Context, Format — brief it like a colleague |
 | **Analysis Workflow** | Prepare the question before you touch the tool |
 | **Opportunity Finder** | Start with quick wins, build from there |
 
@@ -724,9 +773,9 @@ Step 4: WHERE else in my work can AI help?
 
 ### Key Principles Across All Frameworks
 
-- **AI is a tool, not a colleague** — you own the output and the decisions
-- **Better input = better output** — invest in your prompts
-- **Verify before you trust** — especially facts, numbers, and reasoning
+- **Conversation, not delegation** — brief AI like a capable junior colleague; the substance comes from you
+- **Your judgement is the edge** — everyone has the same tools; what you add is what differentiates
+- **Verify from outside** — the tool can't reliably check its own work; especially facts, numbers, and reasoning
 - **Start small, build confidence** — quick wins before big workflows
 - **Iterate, don't accept** — first drafts are starting points
 

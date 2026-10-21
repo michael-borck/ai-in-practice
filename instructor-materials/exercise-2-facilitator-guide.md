@@ -2,7 +2,7 @@
 
 **Duration:** 60 minutes (11:30 AM - 12:30 PM)
 **Frameworks used:** RTCF Prompt Framework
-**Core learning:** Structured prompts produce dramatically better output than naive ones. The quality of your input determines the quality of your output.
+**Core learning:** Structured briefs produce dramatically better output than naive prompts — because the brief supplies what the tool can't: your context, your intent, your standard. Conversation, not delegation.
 
 ---
 
@@ -42,11 +42,11 @@ Distribute the Prompt Engineering Worksheet (if not already distributed).
 >
 > **Round 1:** Pick 3 scenarios. For each one, write the prompt you'd naturally write — the first thing that comes to mind. Type it into your AI tool and note the quality of the output. Don't try to be fancy. Write what you'd normally write.
 >
-> **Round 2:** Go back to the same 3 scenarios. This time, use the RTCF framework — Role, Task, Context, Format. Rewrite your prompts and compare the output to Round 1.
+> **Round 2:** Go back to the same 3 scenarios. This time, brief the AI properly — the mindset is conversation, not delegation: you're briefing a capable junior colleague who knows nothing about your job. Use the RTCF structure — Role, Task, Context, Format — and compare the output to Round 1.
 >
 > **Round 3:** Pick your best scenario and try an advanced technique — I'll explain those when we get there.
 >
-> The goal is to feel the difference between a lazy prompt and a structured one. Ready? Start Round 1 now."
+> The goal is to feel the difference between a vague request and a proper brief. Ready? Start Round 1 now."
 
 ---
 

@@ -23,7 +23,7 @@
 ### The framework I found most useful:
 
 - [ ] AI Task Suitability Spectrum — knowing when to use AI
-- [ ] RTCF Prompt Framework — knowing how to talk to AI
+- [ ] RTCF Prompt Framework — knowing how to brief AI
 - [ ] AI-Assisted Analysis Workflow — knowing how to use AI with data
 - [ ] AI Opportunity Finder — knowing where AI fits in my work
 
