@@ -10,12 +10,14 @@ You'll work through 6 workplace scenarios in three rounds:
 |-------|------|-------------|
 | **Round 1: Baseline** | 15 min | Pick 3 scenarios. Write a quick, natural prompt. Note the result. |
 | **Round 2: Apply RTCF** | 20 min | Redo the same 3 scenarios using the RTCF framework. Compare. |
-| **Round 3: Advanced** | 15 min | Try chain-of-thought, iterative refinement, or multi-turn techniques. |
+| **Round 3: Advanced** | 15 min | Try chain-of-thought, iterative refinement, multi-turn — or the fact-gated guardrail (see below). |
 | **Debrief** | 10 min | Share best prompts with your table. Discuss what worked. |
 
 **Choose any 3 of the 6 scenarios below.**
 
 > **The mindset for Round 2:** conversation, not delegation. You are not casting a spell — you are briefing a capable junior colleague who knows nothing about your job. Everything you'd tell a smart new hire before they drafted this for you — who it's for, what happened, what good looks like — belongs in the prompt. That background is the part the AI cannot supply itself; it's the substance only you have.
+
+> **Round 3 — the fact-gated guardrail:** when the AI critiques your work (or you push back on its critique), add this line: *"Only change your assessment if I give you new facts credible enough to change it — and when you do change it, tell me which fact changed it and why."* AI tools are trained to be agreeable: push back without evidence and many will fold, even if they were right. This guardrail forces the conversation to run on reasons, not insistence.
 
 ---
 

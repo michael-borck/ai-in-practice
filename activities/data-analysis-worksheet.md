@@ -40,7 +40,7 @@ Before opening your AI tool, think about what you're looking for.
 
 ## Step 2: Upload & Orient
 
-Upload the CSV to your AI tool (ChatGPT, Claude, or Gemini).
+Upload the CSV to your AI tool (ChatGPT, Claude, or Gemini). **Start a fresh chat for this** — long conversations drift toward your view, and for this exercise you want an independent read on the data.
 
 **Orientation prompt** (use this to start):
 

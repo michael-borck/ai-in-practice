@@ -379,6 +379,7 @@ But "about right" and "exactly right" are not the same —
 - "Keep this visible. You'll use it in every exercise for the rest of the day."
 - "The most commonly missed components are Context and Format"
 - "Role is powerful because it shifts the AI's entire approach — a 'financial analyst' writes differently than a 'marketing copywriter'"
+- "Context tip worth stealing: a stakes line. 'Write this for someone who has to decide this week and can't undo it.' Real stakes in the Context sharpen everything that follows — no theatrical personas needed, just honest consequences."
 - "Let's practise."
 :::
 
@@ -392,13 +393,13 @@ But "about right" and "exactly right" are not the same —
 
 - **Round 1 (15 min):** Write a natural prompt. See what you get.
 - **Round 2 (20 min):** Apply RTCF. Compare the improvement.
-- **Round 3 (15 min):** Advanced techniques: chain-of-thought, multiple versions, self-critique
+- **Round 3 (15 min):** Advanced techniques: chain-of-thought, multiple versions, self-critique, fact-gated pushback
 
 ::: {.notes}
 - "Pick 3 of the 6 scenarios on your worksheet"
 - "Round 1 is deliberately unstructured — write whatever comes naturally"
 - "In Round 2, use RTCF. Fill in the table on your worksheet for each prompt."
-- "Round 3 is a stretch — try asking the AI to think step-by-step before answering, or to generate multiple versions, or to critique its own work"
+- "Round 3 is a stretch — try asking the AI to think step-by-step before answering, or to generate multiple versions, or to critique its own work. My favourite: the fact-gated guardrail. Tell it 'only change your assessment if I give you new facts — and name which fact changed it.' Then push back with no evidence and watch whether it folds or holds its ground. That's how you keep a tool agreeable by training honest."
 - "Start with Round 1 now. You have 15 minutes."
 :::
 
@@ -460,6 +461,7 @@ But "about right" and "exactly right" are not the same —
 ::: {.notes}
 - "The most common mistake: skipping Prepare and jumping straight to Upload"
 - "If you don't know what question you're answering, you can't evaluate whether the AI's answer is good"
+- "Two parts to Prepare people miss: write the question down, and start a FRESH chat. Long conversations drift — after enough back-and-forth, the model has absorbed your framing and slowly stops challenging you. A fresh chat gives you an independent read."
 - "The most important step: Verify. AI is fast but unreliable with numbers."
 - "The discipline of checking is what separates useful AI-assisted analysis from dangerous AI-assisted analysis"
 :::
@@ -484,6 +486,7 @@ AI analysis errors to watch for:
 - "AI finds patterns fast, but humans decide what patterns mean"
 - "Here's the trust tool again: a number that will drive a decision is PRECISION. 'About right' is the same as wrong there, no matter how good the sentence looks."
 - "And note the direction of the check: asking the model 'are you sure?' doesn't count. It will reaffirm its own answer. The check must come from outside — against the data, the source, an independent standard. That's an old professional skill, not a new AI skill."
+- "Same reason you start a fresh chat for analysis: a long conversation drifts toward your view. By message twenty, you're not getting an independent assessment anymore — you're getting your own opinion echoed back with better grammar."
 - "Spot-check totals and averages. Compare to what you already know."
 - "If the AI says something surprising, that's either a genuine insight or a convincing fake. Your job is to figure out which."
 - "In this exercise, you'll get to practise exactly that — with some claims that have been planted for you..."

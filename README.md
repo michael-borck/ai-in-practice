@@ -257,7 +257,7 @@ This is Course 1 of a three-part executive education series:
 **Practiced:** Exercise 3 — Data Analysis Challenge (1:45-2:30 PM, 45 min)
 
 **Six steps:**
-1. **Prepare** — Define the question before touching the tool
+1. **Prepare** — Define the question before touching the tool; start a **fresh chat** for the analysis (long conversations drift — after ~20 exchanges the model absorbs your framing and stops challenging you)
 2. **Upload** — Get data into the AI appropriately
 3. **Question** — Ask progressively deeper questions
 4. **Verify** — Check the AI's claims against the data itself, from outside the model (the model cannot reliably check its own work)

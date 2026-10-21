@@ -294,6 +294,7 @@ Give the AI the background it needs.
 
 **Types of context to provide:**
 - **Audience:** "This is for senior executives who are not technical"
+- **Stakes:** "Write this for someone who has to decide this week and can't undo it" — real stakes sharpen the rigour of the output
 - **Background:** "We're a mid-sized retail company with 500 employees"
 - **Constraints:** "Keep it under 300 words" or "Use Australian English"
 - **Situation:** "We just lost a major client and need to reassure the team"
@@ -408,8 +409,11 @@ PREPARE  →  UPLOAD  →  QUESTION  →  VERIFY  →  REFINE  →  PRESENT
 
 **Why it matters:** If you don't know what question you're answering, you can't evaluate whether the AI's answer is good.
 
+**Start a fresh chat.** Long conversations drift: after many exchanges, the model absorbs your framing and slowly stops challenging you. A new chat gives you an independent read on your question.
+
 **Checklist:**
 - [ ] What is the specific question I need answered?
+- [ ] Am I starting a fresh chat (not continuing an old conversation)?
 - [ ] Who is the audience for the findings?
 - [ ] What decisions will this analysis inform?
 - [ ] What would a useful answer look like?

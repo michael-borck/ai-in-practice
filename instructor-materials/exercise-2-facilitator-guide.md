@@ -130,7 +130,7 @@ Distribute the Prompt Engineering Worksheet (if not already distributed).
 
 **Your script:**
 
-> "Now pick your best scenario — the one where you got the best Round 2 result. We're going to push further with three advanced techniques. Try at least one:
+> "Now pick your best scenario — the one where you got the best Round 2 result. We're going to push further with four advanced techniques. Try at least one:
 >
 > **Technique 1: Chain-of-thought.** Before the AI writes the output, ask it to think through the problem step by step. For example: 'Before writing the email, think step-by-step about what David is really concerned about, what his priorities are, and what tone would be most effective. Then write the email.'
 >
@@ -138,11 +138,13 @@ Distribute the Prompt Engineering Worksheet (if not already distributed).
 >
 > **Technique 3: Self-critique.** After getting an output, ask the AI to evaluate its own work. 'Review what you just wrote. What's weak? What would a senior executive find unconvincing? Rewrite to fix those issues.'
 >
+> **Technique 4: The fact-gated guardrail.** When the AI critiques your work — or you push back on its critique — add this: 'Only change your assessment if I give you new facts credible enough to change it. And when you do change it, tell me which fact changed it and why.' This stops the AI from folding just because you insisted. It has to either defend its analysis with reasons or name the fact that moved it. Watch what happens when you push back without new facts — it should hold its ground.
+>
 > Try one. See what happens."
 
 **Your role:** This round is more exploratory. Let them experiment.
 
-**For advanced participants:** Challenge them to combine techniques — chain-of-thought AND self-critique, for example.
+**For advanced participants:** Challenge them to combine techniques — chain-of-thought AND self-critique, for example. Technique 4 pairs especially well with self-critique: they'll see the model defend a weakness it just named unless they bring actual evidence. That's sycophancy training turned into a game.
 
 **For struggling participants:** Suggest Technique 2 (multiple versions) as the easiest to try — it just requires adding one sentence to their existing prompt.
 
