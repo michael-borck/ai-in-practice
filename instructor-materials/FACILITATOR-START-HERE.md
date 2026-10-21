@@ -159,6 +159,7 @@ You need to be a good facilitator who understands the frameworks. If an AI tool 
 - Four opportunity types: Automate, Assist, Generate, Analyse
 - Start with Quick Wins: low effort, high time saved
 - Responsible use: company policies, human oversight, data governance
+- What your assistant remembers about you: three stores (saved facts, inferences from chats, chat history) — deleting a chat isn't deleting what was learned; review settings periodically; private/temporary mode for what you don't want learned
 - Brief overview of platforms: Copilot, Zapier, Make, Power Automate (awareness, not training)
 
 **Transition to Exercise 4:** "Everything today has used our scenarios and our data. This last exercise is about YOUR work. Pick one real task from your week and redesign it with what you've learned today."
@@ -237,6 +238,18 @@ Use it as a live teaching moment. Ask the group: "How would you know this was wr
 **Your move:** Validate the policy and redirect.
 
 > "That's actually responsible of your organisation. Data privacy is serious, and we'll talk about that today. For now, you can use the tools here for the workshop exercises — we're using practice scenarios, not real company data. Take notes on the techniques, and when you're back at work, check with your IT team about which tools are approved."
+
+### "My AI knows too much about me — it's getting too personal"
+
+**Your move:** Normalise it — this is the most common privacy question in the weeks after the workshop. Explain the three stores, then give them the platform-specific path.
+
+> "Your assistant keeps knowledge about you in three separate places, and they're managed separately: the facts you explicitly saved, the inferences it drew from your chats, and the chats themselves. Deleting a chat doesn't delete what it learned. Look in settings for 'memory', 'personalisation', or 'data controls' — review and delete there. And going forward, private or temporary chat mode doesn't read from or write to memory — use it for anything you'd rather it not learn."
+
+**If they use Copilot with a Curtin account** (most staff do), the specific path:
+
+> "Copilot Chat (copilot.cloud.microsoft) → top-right '...' → Settings → Personalization. Three things: (1) **Saved memories** tile → Manage saved memories → delete them — note the toggle only stops Copilot *using* them, deleting is a separate action. (2) **Chat history** tile → toggle Off — this deletes the inferences, but takes 30 days to clear, and re-enabling inside 30 days cancels the deletion. (3) The **chats themselves** → delete per conversation, or in bulk at myaccount.microsoft.com → Settings & Privacy → Privacy → Copilot interaction history. And the **Temporary chat** button top-right skips memory entirely."
+
+*(Platform UI changes frequently — verify the path before quoting it. The three-stores concept is the durable part.)*
 
 ### "The wifi is down / AI tool isn't loading"
 

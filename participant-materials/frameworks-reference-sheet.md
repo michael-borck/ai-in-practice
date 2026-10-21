@@ -785,6 +785,25 @@ Step 4: WHERE else in my work can AI help?
 
 ---
 
+### What Your Assistant Remembers About You
+
+Assistants increasingly learn across sessions. That knowledge lives in **three separate stores**, managed separately:
+
+| Store | What It Is | How to Manage It |
+|-------|-----------|------------------|
+| **What you told it** | Explicit facts you asked it to save ("remember that I prefer...") | Review and delete in memory/personalisation settings |
+| **What it inferred** | Patterns drawn from your chats — why an assistant can start to feel "too personal" | Separate toggle; deleting chats does **not** delete this |
+| **The chats themselves** | The conversation history you can see | Delete individually or in bulk via your account's privacy/data settings |
+
+**Practices:**
+- **Review periodically** — look for "memory", "personalisation", or "data controls" in settings (names vary by platform)
+- **Use private/temporary mode** for anything you don't want the assistant to learn — it doesn't read from or write to memory
+- **At work**, enterprise settings are controlled by your IT team — check what's approved before assuming where your data goes
+
+*Deleting a chat removes the conversation, not necessarily what was learned from it. Deleting inferred memory is a separate action.*
+
+---
+
 ### Additional Resources
 
 **Further Learning:**

@@ -167,6 +167,7 @@ This is Course 1 of a three-part executive education series:
   - **Analysis & patterns** — data review, trend spotting, anomaly detection → AI-analyse
 - Identifying the "low-hanging fruit" in your own role
 - Responsible use: company policies, data governance, human oversight
+- What your assistant remembers about you: explicit saved facts, inferences drawn from your chats, and the chat history — three separate stores, managed separately. Review periodically; use private/temporary mode for what you don't want learned
 
 **3:20-4:00 — Exercise 4: Your AI-Enhanced Workflow (40 min)**
 - **Part 1 — Map (10 min):** Pick one recurring weekly task from your role. Map the current steps.

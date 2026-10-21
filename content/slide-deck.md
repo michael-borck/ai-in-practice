@@ -581,6 +581,27 @@ AI analysis errors to watch for:
 
 ---
 
+# Your Assistant Remembers You
+
+**Assistants learn across sessions. Three separate stores:**
+
+1. **What you told it** — explicit facts you asked it to save
+2. **What it inferred** — patterns drawn from your chats (deleting chats ≠ deleting this)
+3. **The chats themselves** — the history you can see
+
+**Review periodically. Use private mode for what you don't want learned.**
+
+::: {.notes}
+- "One responsible-use point that surprises people: your assistant accumulates knowledge about YOU"
+- "It's three separate stores, and they're managed separately. The facts you explicitly saved. The inferences it drew from your conversations — that's the one that makes your assistant feel 'too personal', and deleting your chats does NOT delete it. And the chat history itself."
+- "Expect this question within a week of using AI regularly: 'it knows too much about me — how do I make it forget?' The answer is in personalisation or privacy settings — every platform names them differently, so look for 'memory', 'personalisation', or 'data controls'."
+- "And going forward: private or temporary chat mode. It doesn't read from or write to memory. Use it for anything you'd rather the assistant not learn — the same logic as a fresh chat for independent analysis, but for privacy instead of objectivity."
+- "At work, your IT team controls the enterprise settings — check what's approved before assuming anything about where your data goes."
+- "Framework 4 helps you figure out where AI fits in your actual work."
+:::
+
+---
+
 # Framework 4: AI Opportunity Finder
 
 **Four types of AI opportunity in your daily work:**

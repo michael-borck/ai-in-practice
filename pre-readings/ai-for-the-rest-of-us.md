@@ -232,6 +232,8 @@ When you type something into an AI tool, you should assume:
 - **Paid tiers:** Most providers (OpenAI, Anthropic, Google) have "no training" policies for paid accounts — but read the terms.
 - **Enterprise tiers:** Typically the strongest data protection guarantees.
 
+**Assistants can also remember you across sessions.** Modern AI assistants keep knowledge about you in up to three separate places: the facts you explicitly asked them to save, the inferences they've drawn from your conversations, and the chat history itself. Deleting a chat does not delete what the assistant learned from it — memory and personalisation settings are managed separately. If an assistant ever starts to feel "too personal", look in its settings for memory, personalisation, or data controls. And for conversations you'd rather it not learn from, use private or temporary chat mode, which doesn't read from or write to memory.
+
 ### The Golden Rules
 
 **1. Never enter confidential or sensitive information into free AI tools**
