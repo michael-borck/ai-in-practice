@@ -32,10 +32,48 @@
 
   <section style="padding: 3rem 0;">
     <div class="container" style="max-width: 900px;">
-      <h2 style="text-align: center;">The 4 Frameworks</h2>
-      <p class="section-intro">Practical tools for working with AI. Each framework answers a different question and is practised in a dedicated exercise.</p>
+      <h2 style="text-align: center;">The Spine and the 4 Frameworks</h2>
+      <p class="section-intro">One grid runs through the whole day — the trust tool — and four practical frameworks hang on it. Each answers a different question and is practised in a dedicated exercise.</p>
 
       <div class="frameworks-grid">
+
+        <div class="framework-card" style="border: 2px solid var(--primary);">
+          <div class="framework-header">
+            <div class="framework-number" style="background: var(--primary);">★</div>
+            <h3>The Trust Tool (the spine)</h3>
+          </div>
+          <p class="description"><strong>Question:</strong> How much should I trust this AI output?</p>
+          <p>AI produces a <strong>convincing average</strong>: fluent, well-shaped, usually about right. Whether that's good enough depends on two questions:</p>
+          <div style="background: var(--light); padding: 1.5rem; border-radius: 8px; margin: 1rem 0;">
+            <div style="display: grid; grid-template-columns: 80px 1fr; gap: 0.5rem; font-size: 1rem;">
+              <strong style="color: var(--primary);">Q1</strong> <span>Do you need an <strong>average</strong>, or <strong>precision</strong>? (Is "in the ballpark" fine, or is close the same as wrong?)</span>
+              <strong style="color: var(--primary);">Q2</strong> <span>Are the stakes <strong>small</strong>, or <strong>large</strong>? (Easy to reverse, or real consequences?)</span>
+            </div>
+          </div>
+          <div style="background: var(--light); padding: 1.5rem; border-radius: 8px; margin: 1rem 0; font-size: 0.95rem;">
+            <table style="width: 100%; border-collapse: collapse;">
+              <tr>
+                <td style="padding: 0.5rem;"></td>
+                <td style="padding: 0.5rem;"><strong>Small (low stakes)</strong></td>
+                <td style="padding: 0.5rem;"><strong>Large (high stakes)</strong></td>
+              </tr>
+              <tr>
+                <td style="padding: 0.5rem;"><strong>Average is fine</strong></td>
+                <td style="padding: 0.5rem;"><strong>Lean in.</strong> Let AI run.</td>
+                <td style="padding: 0.5rem;"><strong>Lean in, with a glance.</strong> Sanity-check before it goes out.</td>
+              </tr>
+              <tr>
+                <td style="padding: 0.5rem;"><strong>Precision required</strong></td>
+                <td style="padding: 0.5rem;"><strong>Use, then verify.</strong> Confirm the specifics.</td>
+                <td style="padding: 0.5rem;"><strong>Human in the loop.</strong> A person owns the decision.</td>
+              </tr>
+            </table>
+          </div>
+          <p><strong>Key principle:</strong> Verification comes from outside the tool — the model can't reliably check its own work. Your judgement is the edge.</p>
+          <div style="background: var(--light); padding: 1rem; border-radius: 8px; border-left: 4px solid var(--secondary); margin-top: 1rem;">
+            <strong style="color: var(--secondary);">Used in:</strong> Every exercise, all day
+          </div>
+        </div>
 
         <div class="framework-card">
           <div class="framework-header">
@@ -65,16 +103,16 @@
             <div class="framework-number">2</div>
             <h3>RTCF Prompt Framework</h3>
           </div>
-          <p class="description"><strong>Question:</strong> HOW do I communicate effectively with AI?</p>
+          <p class="description"><strong>Question:</strong> HOW do I brief AI effectively?</p>
           <div style="background: var(--light); padding: 1.5rem; border-radius: 8px; margin: 1rem 0;">
             <div style="display: grid; grid-template-columns: 80px 1fr; gap: 0.5rem; font-size: 1rem;">
               <strong style="color: var(--primary);">R — Role</strong> <span>Set the AI's expertise and perspective</span>
               <strong style="color: var(--primary);">T — Task</strong> <span>Define the specific action clearly</span>
-              <strong style="color: var(--primary);">C — Context</strong> <span>Provide relevant background and constraints</span>
+              <strong style="color: var(--primary);">C — Context</strong> <span>Background and constraints — the grounding only you can supply</span>
               <strong style="color: var(--primary);">F — Format</strong> <span>Specify the desired output structure</span>
             </div>
           </div>
-          <p><strong>Key principle:</strong> The quality of your output is directly proportional to the quality of your input.</p>
+          <p><strong>Key principle:</strong> Conversation, not delegation. Brief it like a capable junior colleague — the tool returns the form of the work; you supply the substance.</p>
           <div style="background: var(--light); padding: 1rem; border-radius: 8px; border-left: 4px solid var(--secondary); margin-top: 1rem;">
             <strong style="color: var(--secondary);">Practised in:</strong> Exercise 2 — Prompt Engineering Workshop (11:30 AM)
           </div>
@@ -91,14 +129,14 @@
                                     MOST IMPORTANT</div>
           <p><strong>Six steps:</strong></p>
           <ol style="margin: 0.5rem 0 0 1.5rem;">
-            <li><strong>Prepare</strong> — Define the question before touching the tool</li>
+            <li><strong>Prepare</strong> — Define the question first; start a fresh chat (long chats drift toward your view)</li>
             <li><strong>Upload</strong> — Get data into the AI appropriately</li>
             <li><strong>Question</strong> — Ask progressively deeper questions</li>
-            <li><strong>Verify</strong> — Cross-check against what you know</li>
+            <li><strong>Verify</strong> — Check claims against the data, from outside the tool</li>
             <li><strong>Refine</strong> — Iterate based on findings</li>
             <li><strong>Present</strong> — Format for your audience</li>
           </ol>
-          <p style="margin-top: 1rem;"><strong>Key principle:</strong> AI finds patterns fast, but humans decide what patterns mean.</p>
+          <p style="margin-top: 1rem;"><strong>Key principle:</strong> AI finds patterns fast, but only an external check tells a real pattern from a convincing fake.</p>
           <div style="background: var(--light); padding: 1rem; border-radius: 8px; border-left: 4px solid var(--secondary); margin-top: 1rem;">
             <strong style="color: var(--secondary);">Practised in:</strong> Exercise 3 — Data Analysis Challenge (1:45 PM)
           </div>
