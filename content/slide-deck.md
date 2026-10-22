@@ -667,7 +667,7 @@ The part you own is the **skill**: a plain-text brief in a folder that the harne
 - "The part you own is the skill: a plain-text brief saved in a folder. When your request matches its description, the harness loads it. It's your RTCF briefing, written once, reused forever, and because it's just text it moves between tools."
 - "And the trust tool doesn't retire. An agent automates the loop, not the standard. A loop that checks its own work inherits the blind spot we saw in Exercise 3: the model reaffirms its own answer. The standard still has to come from outside. Your test, your data, your reviewer, your rubric."
 - "Everything you built today is exactly what goes into a skill file: the brief, the format, the rules, the verification step. If agents arrive in your workplace, you're not starting from zero."
-- "If you want to see a minimal working version: a local model, a one-page skill file, and support tickets triaged into a table, same prompt before and after the skill exists. Ask me and I'll point you at it. No installs today; the idea is what matters."
+- "If you want to see a minimal working version, I can demo it in three minutes: a local model, a one-page skill file, and RetailFlow support tickets triaged into a table, same prompt before and after the skill exists. The demo kit is in the instructor materials. No installs today; the idea is what matters."
 :::
 
 ---

@@ -313,6 +313,7 @@ Seat experienced users with beginners (if you can control seating). Give advance
 | Exercise 4 guide | `exercise-4-facilitator-guide.md` | 3:10 PM |
 | Answer keys | `answer-keys.md` | Reference throughout, incl. Verification Challenge verdicts |
 | Exec Ed logistics reply | `reply-to-nicole-logistics.md` | 1 week before (printing, stationery, 72h reminder wording) |
+| Ticket triage demo kit | `retailflow-triage-demo/` | Session 4, optional 3-min demo (skill file, script, sample tickets) |
 
 ### Room Setup
 
