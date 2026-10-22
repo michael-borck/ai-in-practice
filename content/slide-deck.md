@@ -18,10 +18,10 @@ format:
 ::: {.notes}
 - "Welcome to Practical AI for Professionals"
 - "Today is about doing, not just listening"
-- "Here's the idea the whole day hangs on: everyone in this room has access to the same AI. Same tools, same models. So generic AI competence isn't an advantage anymore — it's the baseline everyone shares. The edge moves to what the tool can't manufacture: your judgement. Knowing what to ask for, when to trust the answer, and where a human stays in charge. That's what we train today."
+- "Here's the idea the whole day hangs on: everyone in this room has access to the same AI. Same tools, same models. So generic AI competence isn't an advantage anymore, it's the baseline everyone shares. The edge moves to what the tool can't manufacture: your judgement. Knowing what to ask for, when to trust the answer, and where a human stays in charge. That's what we train today."
 - "By the end of today, you'll have real skills you can use at your desk on Monday morning"
 - "This isn't a course for executives deciding where to invest in AI, and it's not for project managers leading AI projects. Those are the other two courses in this series."
-- "This course is for YOU — a professional who wants to use AI tools effectively in your daily work."
+- "This course is for YOU, a professional who wants to use AI tools effectively in your daily work."
 :::
 
 ---
@@ -32,7 +32,7 @@ format:
 
 - You'll spend most of the day with your hands on a keyboard
 - You'll use real AI tools on real tasks
-- You'll make mistakes — that's where the learning happens
+- You'll make mistakes, that's where the learning happens
 - You'll leave with techniques you can apply immediately
 
 ::: {.notes}
@@ -70,7 +70,7 @@ format:
 
 **One spine. Four frameworks. Four exercises. One day.**
 
-**The spine:** The Trust Tool — how much to trust any AI output, on any tool
+**The spine:** The Trust Tool, how much to trust any AI output, on any tool
 
 1. **Know when** to use AI → AI Task Suitability Spectrum
 2. **Know how** to brief AI → RTCF Prompt Framework
@@ -95,10 +95,10 @@ format:
 **The Simple Truth: AI Predicts the Next Word**
 
 - "When you type something into ChatGPT or Claude, the AI isn't thinking. It's predicting."
-- "It's been trained on billions of pages of text, and it's learned patterns — what word comes after what, what sentences follow what questions, what format fits what request"
+- "It's been trained on billions of pages of text, and it's learned patterns, what word comes after what, what sentences follow what questions, what format fits what request"
 - "Think of it as autocomplete on steroids"
 - "Your phone predicts one word at a time. These tools predict thousands of words at a time."
-- "The result often LOOKS like understanding — but it's pattern-matching"
+- "The result often LOOKS like understanding, but it's pattern-matching"
 - "Why does this matter? Because it tells you what AI is good at and what it's bad at."
 :::
 
@@ -138,7 +138,7 @@ format:
 ::: {.notes}
 - "This is the critical part. AI NEVER says 'I don't know'"
 - "It will give you a confident, well-structured, completely wrong answer"
-- "This is called hallucination — and it's the biggest risk of using AI carelessly"
+- "This is called hallucination, and it's the biggest risk of using AI carelessly"
 - "If you only remember one thing from this morning: AI output needs human verification. Always."
 - "Let me show you an example of each tool handling the same task differently..."
 :::
@@ -157,10 +157,10 @@ Ask AI → Confident, well-structured, completely wrong answer
 
 ::: {.notes}
 - "Hallucination isn't a bug that will be fixed. It's a fundamental property of how these tools work."
-- "If the AI hasn't seen enough examples of something, it generates the most plausible-sounding text — which may be entirely fabricated"
+- "If the AI hasn't seen enough examples of something, it generates the most plausible-sounding text, which may be entirely fabricated"
 - "It will cite academic papers that don't exist. It will invent statistics. It will create fake legal precedents."
 - "The rule: verify facts, especially numbers, names, quotes, and references"
-- "Here's the deeper point: hallucination isn't the exception. Everything AI produces is a version of this — a convincing average. Let me show you what I mean."
+- "Here's the deeper point: hallucination isn't the exception. Everything AI produces is a version of this, a convincing average. Let me show you what I mean."
 :::
 
 ---
@@ -169,15 +169,14 @@ Ask AI → Confident, well-structured, completely wrong answer
 
 **AI produces a convincing average: fluent, well-shaped, usually about right.**
 
-But "about right" and "exactly right" are not the same —
-
+But "about right" and "exactly right" are not the same,
 **and knowing which one you need is the whole game.**
 
 ::: {.notes}
 - "This is the single most useful thing to understand about today's AI"
 - "It gives you back the most plausible, most typical response drawn from everything it has seen. That's its genius and its limit in one."
-- "Most of the time, the average is genuinely useful — a first draft, a summary, a starting point"
-- "But sometimes you need exactly right — a contract figure, a citation, an account balance. And on those, the average is just a confident guess that looks like an answer"
+- "Most of the time, the average is genuinely useful, a first draft, a summary, a starting point"
+- "But sometimes you need exactly right, a contract figure, a citation, an account balance. And on those, the average is just a confident guess that looks like an answer"
 - "The danger isn't obvious nonsense. It's output that carries all the form of good work without the substance. The danger is how convincing it looks"
 - "So: how do you know when an average is fine and when it isn't? You need a tool. Here it is."
 :::
@@ -199,10 +198,10 @@ But "about right" and "exactly right" are not the same —
 
 ::: {.notes}
 - "This is the trust tool: Average/Precise crossed with Small/Large. It's the spine of everything we do today."
-- "Walk the corners: internal email draft — average, small stakes — lean in. Board paper numbers — precision, large stakes — a human owns every figure."
+- "Walk the corners: internal email draft, average, small stakes, lean in. Board paper numbers, precision, large stakes, a human owns every figure."
 - "The rule of thumb: lean in where 'about right' over low stakes is fine; keep a human in the loop where exactly-right meets high stakes."
-- "Here's the part that makes this durable: verification comes from OUTSIDE the tool. Asking the AI to check its own work doesn't count — it will happily agree with itself. The check is yours: against the data, the source, the standard. That's not an AI skill. It's an old professional skill, and it's what makes you the edge."
-- "This grid works on any tool — ChatGPT, Claude, Gemini, whatever ships next year. It doesn't expire when the next model does."
+- "Here's the part that makes this durable: verification comes from OUTSIDE the tool. Asking the AI to check its own work doesn't count, it will happily agree with itself. The check is yours: against the data, the source, the standard. That's not an AI skill. It's an old professional skill, and it's what makes you the edge."
+- "This grid works on any tool, ChatGPT, Claude, Gemini, whatever ships next year. It doesn't expire when the next model does."
 - "Now let's look at a framework for deciding which tasks to bring to AI in the first place."
 :::
 
@@ -217,10 +216,10 @@ But "about right" and "exactly right" are not the same —
 
 **Four zones:**
 
-- **AI-Led** — Routine, pattern-based tasks. AI does the heavy lifting, you review. Example: formatting notes into meeting minutes.
-- **AI-Assisted** — Tasks requiring your judgment, but AI provides substantial help. Example: drafting a client proposal.
-- **Human-Led, AI-Supported** — Complex tasks where AI handles sub-parts. Example: strategy document where AI helps with research and formatting.
-- **Human-Only** — Tasks requiring empathy, ethics, novel judgment. Example: difficult conversation with a team member.
+- **AI-Led**: Routine, pattern-based tasks. AI does the heavy lifting, you review. Example: formatting notes into meeting minutes.
+- **AI-Assisted**: Tasks requiring your judgment, but AI provides substantial help. Example: drafting a client proposal.
+- **Human-Led, AI-Supported**: Complex tasks where AI handles sub-parts. Example: strategy document where AI helps with research and formatting.
+- **Human-Only**: Tasks requiring empathy, ethics, novel judgment. Example: difficult conversation with a team member.
 
 "The first question to ask with any task: where does it sit on this spectrum?"
 "When in doubt, start with more human involvement and delegate to AI as you build trust."
@@ -238,10 +237,10 @@ But "about right" and "exactly right" are not the same —
 | **Human-Only** | Nothing | Full ownership |
 
 ::: {.notes}
-- "The key skill is classification — quickly deciding which zone a task belongs in"
+- "The key skill is classification, quickly deciding which zone a task belongs in"
 - "Most professionals will spend most of their time in the middle two zones"
-- "AI-Led tasks are your quick wins — start there"
-- "Human-Only tasks are where your value is irreplaceable — protect those"
+- "AI-Led tasks are your quick wins, start there"
+- "Human-Only tasks are where your value is irreplaceable, protect those"
 - "Let's test this with real AI tools..."
 :::
 
@@ -265,7 +264,7 @@ But "about right" and "exactly right" are not the same —
 "I manage a team of 8 people in a mid-sized company. One of my team members, who has been a strong performer for 3 years, has been consistently late to work and missing deadlines for the past month. Other team members are starting to notice. Write me a plan for how to address this situation."
 
 - "You have 10 minutes to run the prompt, then 10 minutes to discuss at your table, then we'll debrief"
-- "Don't modify the prompt — we want to see how different tools handle the same input"
+- "Don't modify the prompt, we want to see how different tools handle the same input"
 - "Go."
 :::
 
@@ -283,16 +282,16 @@ But "about right" and "exactly right" are not the same —
 **Debrief (15 min):**
 
 - Draw out 3-4 observations about differences (tone, structure, content, gaps)
-- Spotlight any bad advice or hallucination — this is the highlight
+- Spotlight any bad advice or hallucination, this is the highlight
 - Connect to the Suitability Spectrum: "This scenario is Human-Led, AI-Supported. The AI helps you think, but the conversation is yours."
-- Now apply the trust tool: "Where did an average suffice? Where did the output land in the precision quadrant — and did anyone actually check anything? Hold that thought."
+- Now apply the trust tool: "Where did an average suffice? Where did the output land in the precision quadrant, and did anyone actually check anything? Hold that thought."
 
 **Key message:**
 - "There's no objectively 'best' tool. Different tools suit different tasks."
 - "What matters is that you try a few, find what works, and NEVER assume the first output is ready to use."
 
 **Bridge to Session 2:**
-- "You just saw what happens with a basic prompt. After the break, we'll learn how to dramatically improve what you get back — and the reframe might surprise you. It's less about clever words than you think."
+- "You just saw what happens with a basic prompt. After the break, we'll learn how to dramatically improve what you get back, and the reframe might surprise you. It's less about clever words than you think."
 :::
 
 ---
@@ -305,10 +304,10 @@ But "about right" and "exactly right" are not the same —
 
 ::: {.notes}
 - "This is the most important lesson of the day"
-- "Most people type vague prompts and get vague results — then blame the tool"
-- "Here's the reframe that makes prompting click: you are NOT casting a spell. There are no magic words. You are briefing a capable junior colleague — one who is smart, fast, and knows nothing about your job"
+- "Most people type vague prompts and get vague results, then blame the tool"
+- "Here's the reframe that makes prompting click: you are NOT casting a spell. There are no magic words. You are briefing a capable junior colleague, one who is smart, fast, and knows nothing about your job"
 - "What would you tell a talented new hire before they drafted the client email for you? Who it's for. What happened last month. What good looks like. That's exactly what belongs in your prompt"
-- "The tool produces the form of the work — the shape of an email, the structure of a summary. The substance — your intent, your context, your standard — only you can supply. The briefing is where you supply it."
+- "The tool produces the form of the work, the shape of an email, the structure of a summary. The substance, your intent, your context, your standard, only you can supply. The briefing is where you supply it."
 - "The framework that follows makes the briefing repeatable"
 :::
 
@@ -318,13 +317,13 @@ But "about right" and "exactly right" are not the same —
 
 **The briefing structure:**
 
-**R** — Role (Who should the AI be?)
+**R**: Role (Who should the AI be?)
 
-**T** — Task (What exactly should it do?)
+**T**: Task (What exactly should it do?)
 
-**C** — Context (What does it need to know? — *the grounding only you can supply*)
+**C**: Context (What does it need to know?, *the grounding only you can supply*)
 
-**F** — Format (How should the output look?)
+**F**: Format (How should the output look?)
 
 ::: {.notes}
 - "RTCF. Role, Task, Context, Format."
@@ -378,8 +377,8 @@ But "about right" and "exactly right" are not the same —
 ::: {.notes}
 - "Keep this visible. You'll use it in every exercise for the rest of the day."
 - "The most commonly missed components are Context and Format"
-- "Role is powerful because it shifts the AI's entire approach — a 'financial analyst' writes differently than a 'marketing copywriter'"
-- "Context tip worth stealing: a stakes line. 'Write this for someone who has to decide this week and can't undo it.' Real stakes in the Context sharpen everything that follows — no theatrical personas needed, just honest consequences."
+- "Role is powerful because it shifts the AI's entire approach, a 'financial analyst' writes differently than a 'marketing copywriter'"
+- "Context tip worth stealing: a stakes line. 'Write this for someone who has to decide this week and can't undo it.' Real stakes in the Context sharpen everything that follows, no theatrical personas needed, just honest consequences."
 - "Let's practise."
 :::
 
@@ -397,9 +396,9 @@ But "about right" and "exactly right" are not the same —
 
 ::: {.notes}
 - "Pick 3 of the 6 scenarios on your worksheet"
-- "Round 1 is deliberately unstructured — write whatever comes naturally"
+- "Round 1 is deliberately unstructured, write whatever comes naturally"
 - "In Round 2, use RTCF. Fill in the table on your worksheet for each prompt."
-- "Round 3 is a stretch — try asking the AI to think step-by-step before answering, or to generate multiple versions, or to critique its own work. My favourite: the fact-gated guardrail. Tell it 'only change your assessment if I give you new facts — and name which fact changed it.' Then push back with no evidence and watch whether it folds or holds its ground. That's how you keep a tool agreeable by training honest."
+- "Round 3 is a stretch, try asking the AI to think step-by-step before answering, or to generate multiple versions, or to critique its own work. My favourite: the fact-gated guardrail. Tell it 'only change your assessment if I give you new facts, and name which fact changed it.' Then push back with no evidence and watch whether it folds or holds its ground. That's how you keep a tool agreeable by training honest."
 - "Start with Round 1 now. You have 15 minutes."
 :::
 
@@ -409,10 +408,10 @@ But "about right" and "exactly right" are not the same —
 
 **What you just experienced:**
 
-1. **Specificity wins** — vague prompts produce generic output
-2. **Context is king** — the AI doesn't know what you don't tell it
-3. **Format saves time** — specify output structure and paste directly
-4. **Iteration beats perfection** — treat first output as a draft
+1. **Specificity wins**: vague prompts produce generic output
+2. **Context is king**: the AI doesn't know what you don't tell it
+3. **Format saves time**: specify output structure and paste directly
+4. **Iteration beats perfection**: treat first output as a draft
 
 ::: {.notes}
 **Debrief (10 min):**
@@ -422,7 +421,7 @@ But "about right" and "exactly right" are not the same —
 - "What happened in Round 3? Did chain-of-thought or self-critique improve things further?"
 
 **Key message:**
-- "The best prompters don't write one perfect prompt — they write a good prompt, evaluate the output, and refine"
+- "The best prompters don't write one perfect prompt, they write a good prompt, evaluate the output, and refine"
 - "Before lunch, save your best prompt to the template library on your worksheet"
 :::
 
@@ -436,7 +435,7 @@ But "about right" and "exactly right" are not the same —
 - "This afternoon is about application"
 - "First: using AI to analyse data"
 - "AI can find patterns in spreadsheets, create visualisations, run analysis, and summarise findings"
-- "But — and this is critical — AI makes arithmetic errors, confuses correlation with causation, and sometimes invents data points"
+- "But, and this is critical, AI makes arithmetic errors, confuses correlation with causation, and sometimes invents data points"
 - "You need a process. That's Framework 3."
 :::
 
@@ -461,7 +460,7 @@ But "about right" and "exactly right" are not the same —
 ::: {.notes}
 - "The most common mistake: skipping Prepare and jumping straight to Upload"
 - "If you don't know what question you're answering, you can't evaluate whether the AI's answer is good"
-- "Two parts to Prepare people miss: write the question down, and start a FRESH chat. Long conversations drift — after enough back-and-forth, the model has absorbed your framing and slowly stops challenging you. A fresh chat gives you an independent read."
+- "Two parts to Prepare people miss: write the question down, and start a FRESH chat. Long conversations drift, after enough back-and-forth, the model has absorbed your framing and slowly stops challenging you. A fresh chat gives you an independent read."
 - "The most important step: Verify. AI is fast but unreliable with numbers."
 - "The discipline of checking is what separates useful AI-assisted analysis from dangerous AI-assisted analysis"
 :::
@@ -470,7 +469,7 @@ But "about right" and "exactly right" are not the same —
 
 # The Verification Step
 
-**If a finding would change a decision, verify it — from outside the tool.**
+**If a finding would change a decision, verify it, from outside the tool.**
 
 Asking the AI to check its own work doesn't count. The check is yours.
 
@@ -485,11 +484,11 @@ AI analysis errors to watch for:
 ::: {.notes}
 - "AI finds patterns fast, but humans decide what patterns mean"
 - "Here's the trust tool again: a number that will drive a decision is PRECISION. 'About right' is the same as wrong there, no matter how good the sentence looks."
-- "And note the direction of the check: asking the model 'are you sure?' doesn't count. It will reaffirm its own answer. The check must come from outside — against the data, the source, an independent standard. That's an old professional skill, not a new AI skill."
-- "Same reason you start a fresh chat for analysis: a long conversation drifts toward your view. By message twenty, you're not getting an independent assessment anymore — you're getting your own opinion echoed back with better grammar."
+- "And note the direction of the check: asking the model 'are you sure?' doesn't count. It will reaffirm its own answer. The check must come from outside, against the data, the source, an independent standard. That's an old professional skill, not a new AI skill."
+- "Same reason you start a fresh chat for analysis: a long conversation drifts toward your view. By message twenty, you're not getting an independent assessment anymore, you're getting your own opinion echoed back with better grammar."
 - "Spot-check totals and averages. Compare to what you already know."
 - "If the AI says something surprising, that's either a genuine insight or a convincing fake. Your job is to figure out which."
-- "In this exercise, you'll get to practise exactly that — with some claims that have been planted for you..."
+- "In this exercise, you'll get to practise exactly that, with some claims that have been planted for you..."
 :::
 
 ---
@@ -504,15 +503,15 @@ AI analysis errors to watch for:
 2. Are there patterns in when response times blow out?
 3. What would you recommend to the customer service manager?
 
-**Then: the Verification Challenge — three claims about this data. At least one is wrong.**
+**Then: the Verification Challenge, three claims about this data. At least one is wrong.**
 
 ::: {.notes}
-- "You have the RetailFlow customer service dataset — 6 months of ticket data"
+- "You have the RetailFlow customer service dataset, 6 months of ticket data"
 - "Upload it to your AI tool and follow the Analysis Workflow on your worksheet"
 - "Work individually or in pairs. Start by asking the AI to describe the dataset."
 - "You have 20 minutes of working time, then the Verification Challenge, then we'll debrief"
 - "Remember: Prepare your question, Upload, Question progressively, Verify, Refine, Present"
-- "The Verification Challenge: your worksheet has three 'insights' about this data. Each sounds professional and plausible. At least one is wrong, and at least one is stated wrong. Trust nothing on fluency — verify against the data itself."
+- "The Verification Challenge: your worksheet has three 'insights' about this data. Each sounds professional and plausible. At least one is wrong, and at least one is stated wrong. Trust nothing on fluency, verify against the data itself."
 - "The brief at the end should be something you could hand to a real manager"
 :::
 
@@ -534,7 +533,7 @@ AI analysis errors to watch for:
 | Claim | Verdict |
 |-------|---------|
 | "Email ~3x slower than Live Chat" | ✅ Verified |
-| "Account Issues: lowest satisfaction, most complex" | ❌ Refuted — twice |
+| "Account Issues: lowest satisfaction, most complex" | ❌ Refuted, twice |
 | "Sundays: more than double the average" | ⚠️ Overstated (~1.5x, not 2x) |
 
 ::: {.notes}
@@ -546,16 +545,16 @@ AI analysis errors to watch for:
 - If someone caught an error: spend time on it. This is the verification lesson.
 - If nobody verified: "If you didn't verify, you don't actually know if those findings are correct."
 
-**Then the claim reveal — take a vote per claim before revealing:**
+**Then the claim reveal, take a vote per claim before revealing:**
 - Claim A verified: 13.2h vs 4.0h is 3.3x. Accurate.
-- Claim B refuted TWICE: Returns & Refunds is lowest (~1.6 vs ~3.1) — and Account Issues actually has the HIGHEST resolution rate (~96%), so "most complex" collapses too. This is the convincing fake: plausible mechanism, professional tone, wrong on the data. If forwarded to Karen, she'd fix the wrong thing.
-- Claim C overstated: 13.7h vs 9.2h overall is 1.5x, not 2x. Directionally right, number wrong. Trust tool check: that number drives a staffing decision — precision quadrant. Close is the same as wrong.
+- Claim B refuted TWICE: Returns & Refunds is lowest (~1.6 vs ~3.1), and Account Issues actually has the HIGHEST resolution rate (~96%), so "most complex" collapses too. This is the convincing fake: plausible mechanism, professional tone, wrong on the data. If forwarded to Karen, she'd fix the wrong thing.
+- Claim C overstated: 13.7h vs 9.2h overall is 1.5x, not 2x. Directionally right, number wrong. Trust tool check: that number drives a staffing decision, precision quadrant. Close is the same as wrong.
 
 **The landing:**
-- "Claim B is the one to remember. Fluent, professional, plausible — and wrong. That's what AI failure looks like: not nonsense, but a convincing average. The form of insight without the substance. The substance — the check — comes from outside the tool. That's your edge."
+- "Claim B is the one to remember. Fluent, professional, plausible, and wrong. That's what AI failure looks like: not nonsense, but a convincing average. The form of insight without the substance. The substance, the check, comes from outside the tool. That's your edge."
 
 **Bridge:**
-- "You just did in 25 minutes what would have taken hours manually. That's the promise. But the quality depended entirely on Step 4 — Verify."
+- "You just did in 25 minutes what would have taken hours manually. That's the promise. But the quality depended entirely on Step 4, Verify."
 :::
 
 ---
@@ -566,16 +565,16 @@ AI analysis errors to watch for:
 
 **AI is moving from "a tool you go to" to "a capability in every tool you use."**
 
-- Microsoft 365 Copilot — in Word, Excel, PowerPoint, Outlook
-- Google Workspace AI — in Docs, Sheets, Gmail
-- Automation platforms — Zapier, Make, Power Automate
-- Specialist tools — Grammarly, Otter.ai, Beautiful.ai
+- Microsoft 365 Copilot, in Word, Excel, PowerPoint, Outlook
+- Google Workspace AI, in Docs, Sheets, Gmail
+- Automation platforms, Zapier, Make, Power Automate
+- Specialist tools, Grammarly, Otter.ai, Beautiful.ai
 
 ::: {.notes}
 - "Chat interfaces like ChatGPT and Claude are the most visible AI tools"
 - "But AI is increasingly embedded in the software you already use"
-- "Within a few years, using AI won't feel like a separate activity — it'll just be how software works"
-- "The question isn't whether you'll use AI — it's whether you'll use it well"
+- "Within a few years, using AI won't feel like a separate activity, it'll just be how software works"
+- "The question isn't whether you'll use AI, it's whether you'll use it well"
 - "Framework 4 helps you figure out where to start."
 :::
 
@@ -585,18 +584,18 @@ AI analysis errors to watch for:
 
 **Assistants learn across sessions. Three separate stores:**
 
-1. **What you told it** — explicit facts you asked it to save
-2. **What it inferred** — patterns drawn from your chats (deleting chats ≠ deleting this)
-3. **The chats themselves** — the history you can see
+1. **What you told it**: explicit facts you asked it to save
+2. **What it inferred**: patterns drawn from your chats (deleting chats ≠ deleting this)
+3. **The chats themselves**: the history you can see
 
 **Review periodically. Use private mode for what you don't want learned.**
 
 ::: {.notes}
 - "One responsible-use point that surprises people: your assistant accumulates knowledge about YOU"
-- "It's three separate stores, and they're managed separately. The facts you explicitly saved. The inferences it drew from your conversations — that's the one that makes your assistant feel 'too personal', and deleting your chats does NOT delete it. And the chat history itself."
-- "Expect this question within a week of using AI regularly: 'it knows too much about me — how do I make it forget?' The answer is in personalisation or privacy settings — every platform names them differently, so look for 'memory', 'personalisation', or 'data controls'."
-- "And going forward: private or temporary chat mode. It doesn't read from or write to memory. Use it for anything you'd rather the assistant not learn — the same logic as a fresh chat for independent analysis, but for privacy instead of objectivity."
-- "At work, your IT team controls the enterprise settings — check what's approved before assuming anything about where your data goes."
+- "It's three separate stores, and they're managed separately. The facts you explicitly saved. The inferences it drew from your conversations, that's the one that makes your assistant feel 'too personal', and deleting your chats does NOT delete it. And the chat history itself."
+- "Expect this question within a week of using AI regularly: 'it knows too much about me, how do I make it forget?' The answer is in personalisation or privacy settings, every platform names them differently, so look for 'memory', 'personalisation', or 'data controls'."
+- "And going forward: private or temporary chat mode. It doesn't read from or write to memory. Use it for anything you'd rather the assistant not learn, the same logic as a fresh chat for independent analysis, but for privacy instead of objectivity."
+- "At work, your IT team controls the enterprise settings, check what's approved before assuming anything about where your data goes."
 - "Framework 4 helps you figure out where AI fits in your actual work."
 :::
 
@@ -615,7 +614,7 @@ AI analysis errors to watch for:
 
 ::: {.notes}
 - "Not every part of your job benefits from AI. The skill is knowing WHERE it adds value."
-- "Start with Automate — those are your Quick Wins. Low effort, high time saved."
+- "Start with Automate, those are your Quick Wins. Low effort, high time saved."
 - "Assist and Generate are where most professionals will spend the most time with AI."
 - "Analyse is what you practised in Exercise 3."
 - "Some tasks are Human-Only: empathy, ethics, relationships, novel judgment. Keep those."
@@ -645,6 +644,30 @@ LOW effort ——————————+———————————— H
 - "Don't try to automate your entire job on day one"
 - "Pick the task you do most frequently that bores you the most. That's your first candidate."
 - "Now let's apply this to YOUR work..."
+:::
+
+---
+
+# Where This Is Heading: Agents and Skills
+
+You'll hear three words over the next year: **agent**, **harness**, **skill**.
+
+An **agent** is a model in a loop with tools: it drafts, checks, calls something, tries again, until the job is done.
+
+What shapes that loop is the **harness**: the software around the model. Its standing instructions, the context it can read, the tools it may call, and the model it runs on.
+
+The part you own is the **skill**: a plain-text brief in a folder that the harness loads when your request matches it. Write it once and it works in any harness.
+
+**And the trust tool still rules: an agent automates the loop, not the standard.**
+
+::: {.notes}
+- "You'll hear 'agents' constantly over the next year. Here's the durable version, no hype."
+- "An agent is a model in a loop with tools. It plans, drafts, checks, calls something, tries again."
+- "What makes it good or dangerous is the harness around the model: the standing instructions, what context it can read, which tools it may call, and whether there's a real check at the end. ChatGPT's chat box is a harness. So is a coding agent. So is the booking system at your work that drafts replies."
+- "The part you own is the skill: a plain-text brief saved in a folder. When your request matches its description, the harness loads it. It's your RTCF briefing, written once, reused forever, and because it's just text it moves between tools."
+- "And the trust tool doesn't retire. An agent automates the loop, not the standard. A loop that checks its own work inherits the blind spot we saw in Exercise 3: the model reaffirms its own answer. The standard still has to come from outside. Your test, your data, your reviewer, your rubric."
+- "Everything you built today is exactly what goes into a skill file: the brief, the format, the rules, the verification step. If agents arrive in your workplace, you're not starting from zero."
+- "If you want to see a minimal working version: a local model, a one-page skill file, and support tickets triaged into a table, same prompt before and after the skill exists. Ask me and I'll point you at it. No installs today; the idea is what matters."
 :::
 
 ---
@@ -689,22 +712,22 @@ LOW effort ——————————+———————————— H
 - "The trust tool is the thread: encounter an output → average or precise? small or large? → that tells you how much checking it needs"
 - "You now have four tools that work together:"
 - "Encounter a task → check the Spectrum → if AI is involved, write a brief using RTCF → if there's data, follow the Analysis Workflow with verification built in → once a week, use the Opportunity Finder to spot new tasks to try"
-- "The key principle across all of it: conversation, not delegation. The tool returns the form of the work; you supply the substance — the context, the judgement, the check. You own the output and the decisions."
+- "The key principle across all of it: conversation, not delegation. The tool returns the form of the work; you supply the substance, the context, the judgement, the check. You own the output and the decisions."
 :::
 
 ---
 
 # Key Principles
 
-- **Conversation, not delegation** — brief it like a capable colleague; you supply the substance
-- **Your judgement is the edge** — everyone has the same tools; what you add is what differentiates
-- **Verify from outside** — the tool can't check its own work; that check is yours
-- **Start small, build confidence** — quick wins first
-- **Iterate, don't accept** — first drafts are starting points
+- **Conversation, not delegation**: brief it like a capable colleague; you supply the substance
+- **Your judgement is the edge**: everyone has the same tools; what you add is what differentiates
+- **Verify from outside**: the tool can't check its own work; that check is yours
+- **Start small, build confidence**: quick wins first
+- **Iterate, don't accept**: first drafts are starting points
 
 ::: {.notes}
 - "If you remember five things from today, remember these"
-- "Conversation, not delegation: the prompt is a briefing, not an incantation. The tool gives you the form of the work; you supply what it can't — intent, context, standards."
+- "Conversation, not delegation: the prompt is a briefing, not an incantation. The tool gives you the form of the work; you supply what it can't, intent, context, standards."
 - "Your judgement is the edge: 27 people in this room, same tools. What separates you is the discipline you bring to it."
 - "Verify from outside: the model will happily reaffirm its own wrong answer. The check is yours, against the data and the source."
 - "Never send AI output without reviewing it. Your name is on it, not ChatGPT's."
@@ -728,7 +751,7 @@ What AI skill will you develop further?
 
 ::: {.notes}
 - "Take out your Personal Action Plan template"
-- "This is the most important part of the day — making it concrete"
+- "This is the most important part of the day, making it concrete"
 - "Don't write 'use AI more.' Write: 'I will use Claude to draft my weekly status update on Thursday using RTCF.'"
 - "Specific task. Specific tool. Specific day."
 - Give 10 minutes of quiet time. Don't talk over this.
@@ -751,8 +774,8 @@ Leading successful AI implementations.
 
 ::: {.notes}
 - "This course gave you personal AI skills"
-- "The Business Innovation course teaches you to evaluate AI opportunities strategically — which projects are worth investing in"
-- "The Leadership course teaches you to lead and deliver those projects — stakeholders, crises, scale-or-kill decisions"
+- "The Business Innovation course teaches you to evaluate AI opportunities strategically, which projects are worth investing in"
+- "The Leadership course teaches you to lead and deliver those projects, stakeholders, crises, scale-or-kill decisions"
 - "Together, the three courses cover the full AI capability stack: use it, choose it, lead it."
 :::
 
@@ -769,8 +792,8 @@ michael.borck@curtin.edu.au
 ![](./images/qr-feedback.png)
 
 ::: {.notes}
-- "Please take 5 minutes to complete the feedback form — the QR code is on screen and we'll hold here until you're done"
+- "Please take 5 minutes to complete the feedback form, the QR code is on screen and we'll hold here until you're done"
 - "Your honest input helps us improve these workshops"
 - "Digital copies of all materials will be sent via email"
-- "Good luck with your AI experiments this week — and remember: brief it, don't spell it. Trust the average where averages are fine, and run the check where only exact will do."
+- "Good luck with your AI experiments this week, and remember: brief it, don't spell it. Trust the average where averages are fine, and run the check where only exact will do."
 :::

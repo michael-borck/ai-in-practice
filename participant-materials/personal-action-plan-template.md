@@ -1,6 +1,6 @@
 # Personal Action Plan
 
-## Practical AI for Professionals — Wrap-up (4:15 PM - 4:30 PM)
+## Practical AI for Professionals, Wrap-up (4:15 PM - 4:30 PM)
 
 **Name:** ___________________________________
 
@@ -22,10 +22,10 @@
 
 ### The framework I found most useful:
 
-- [ ] AI Task Suitability Spectrum — knowing when to use AI
-- [ ] RTCF Prompt Framework — knowing how to brief AI
-- [ ] AI-Assisted Analysis Workflow — knowing how to use AI with data
-- [ ] AI Opportunity Finder — knowing where AI fits in my work
+- [ ] AI Task Suitability Spectrum, knowing when to use AI
+- [ ] RTCF Prompt Framework, knowing how to brief AI
+- [ ] AI-Assisted Analysis Workflow, knowing how to use AI with data
+- [ ] AI Opportunity Finder, knowing where AI fits in my work
 
 **Why:**
 
@@ -139,7 +139,7 @@ Save the best prompts you created today. These are templates you can reuse.
 
 ---
 
-## Quick Reference — The Four Frameworks
+## Quick Reference, The Four Frameworks
 
 Keep this page visible at your desk.
 
@@ -166,9 +166,9 @@ For project managers and implementers leading AI initiatives.
 
 ### Resources:
 
-- Ethan Mollick's "One Useful Thing" — [oneusefulthing.org](https://www.oneusefulthing.org/) — practical AI insights, updated regularly
-- Anthropic Prompt Engineering Guide — [docs.anthropic.com](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering)
-- OpenAI Prompt Engineering Guide — [platform.openai.com](https://platform.openai.com/docs/guides/prompt-engineering)
+- Ethan Mollick's "One Useful Thing", [oneusefulthing.org](https://www.oneusefulthing.org/), practical AI insights, updated regularly
+- Anthropic Prompt Engineering Guide, [docs.anthropic.com](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering)
+- OpenAI Prompt Engineering Guide, [platform.openai.com](https://platform.openai.com/docs/guides/prompt-engineering)
 
 ---
 

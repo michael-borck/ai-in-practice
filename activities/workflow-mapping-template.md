@@ -1,4 +1,4 @@
-# AI-Enhanced Workflow — Mapping Template
+# AI-Enhanced Workflow, Mapping Template
 
 ## Exercise 4: Your AI-Enhanced Workflow (3:20 PM - 4:00 PM)
 
@@ -35,7 +35,7 @@ Pick a task you do at least weekly that takes 30+ minutes. It should be somethin
 
 ### Document the current steps
 
-Write each step of how you do this task today. Be specific — include the tools you use and what you do at each step.
+Write each step of how you do this task today. Be specific, include the tools you use and what you do at each step.
 
 | Step | What I Do | Tool/System | Time (min) |
 |------|-----------|-------------|------------|
@@ -83,12 +83,12 @@ Go back to your steps above. For each one, use the **AI Opportunity Finder** to 
 | 7 | | Automate / Assist / Generate / Analyse / Human-Only | |
 | 8 | | Automate / Assist / Generate / Analyse / Human-Only | |
 
-**Quick reference — AI Opportunity Types:**
+**Quick reference, AI Opportunity Types:**
 - **Automate:** Routine, pattern-based, no judgment needed
-- **Assist:** Research, synthesis, gathering — AI does legwork, you evaluate
-- **Generate:** Writing, drafting, content creation — AI drafts, you edit
-- **Analyse:** Data, patterns, trends — AI crunches, you interpret
-- **Human-Only:** Empathy, ethics, judgment, relationships — keep this yours
+- **Assist:** Research, synthesis, gathering, AI does legwork, you evaluate
+- **Generate:** Writing, drafting, content creation, AI drafts, you edit
+- **Analyse:** Data, patterns, trends, AI crunches, you interpret
+- **Human-Only:** Empathy, ethics, judgment, relationships, keep this yours
 
 ---
 

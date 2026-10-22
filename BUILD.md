@@ -178,9 +178,9 @@ Rendered slide files are copied to `docs/` by the build script if they exist.
 
 ## Dependencies
 
-- **Pandoc** — Markdown to HTML conversion (`brew install pandoc` on macOS)
-- **Python 3** — Local testing server (pre-installed on macOS)
-- **Quarto** (optional) — Slide deck rendering (`brew install --cask quarto`)
+- **Pandoc**: Markdown to HTML conversion (`brew install pandoc` on macOS)
+- **Python 3**: Local testing server (pre-installed on macOS)
+- **Quarto** (optional), Slide deck rendering (`brew install --cask quarto`)
 
 ---
 

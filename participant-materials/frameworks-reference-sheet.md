@@ -30,7 +30,7 @@ This reference sheet provides quick access to the trust tool and the four framew
 - Four zones from AI-Led to Human-Only
 
 **Framework 2: RTCF Prompt Framework**
-- Structure effective briefs for any AI tool — conversation, not delegation
+- Structure effective briefs for any AI tool, conversation, not delegation
 - Four components: Role, Task, Context, Format
 
 **Framework 3: AI-Assisted Analysis Workflow**
@@ -65,7 +65,7 @@ This reference sheet provides quick access to the trust tool and the four framew
 
 ## The Trust Tool: The Spine of the Day
 
-**Purpose:** Decide how much to trust any AI output — before you act on it
+**Purpose:** Decide how much to trust any AI output, before you act on it
 
 **The question it answers:** *"Can I trust this, and how much checking does it need?"*
 
@@ -73,15 +73,15 @@ This reference sheet provides quick access to the trust tool and the four framew
 
 ### The Key Insight
 
-AI produces a **convincing average**: fluent, well-shaped, usually about right. But "about right" and "exactly right" are not the same thing — and knowing which one you need is the whole game. The tool carries the form of good work; you supply the substance it can't: the context, the judgement, and the check.
+AI produces a **convincing average**: fluent, well-shaped, usually about right. But "about right" and "exactly right" are not the same thing, and knowing which one you need is the whole game. The tool carries the form of good work; you supply the substance it can't: the context, the judgement, and the check.
 
 ### Two Questions
 
-**Q1 — Do you need an average, or precision?**
+**Q1, Do you need an average, or precision?**
 - **Average** = "in the ballpark" is fine: a first draft, a summary, a starting point you'll shape
 - **Precise** = one correct value, where close is the same as wrong: figures, citations, names, numbers
 
-**Q2 — Are the stakes small or large?**
+**Q2, Are the stakes small or large?**
 - **Small** = easy to reverse, cheap to get wrong, no one harmed
 - **Large** = real consequences: money, safety, reputation, someone's job
 
@@ -96,7 +96,7 @@ AI produces a **convincing average**: fluent, well-shaped, usually about right. 
 
 - **Lean in** where "about right" over low stakes is fine
 - **Keep a human in the loop** where exactly-right meets high stakes
-- **Verification comes from outside the tool.** Asking the AI to check its own work doesn't count — check against the data, the source, or an independent standard
+- **Verification comes from outside the tool.** Asking the AI to check its own work doesn't count, check against the data, the source, or an independent standard
 - Fluency is not evidence. The smoother the output, the more reason to check the load-bearing parts
 
 *From* Conversation, Not Delegation *(michael-borck.github.io/conversation-not-delegation)*
@@ -107,7 +107,7 @@ AI produces a **convincing average**: fluent, well-shaped, usually about right. 
 
 ## Framework 1: AI Task Suitability Spectrum
 
-**Purpose:** Decide whether a task is suitable for AI assistance — and what kind of assistance
+**Purpose:** Decide whether a task is suitable for AI assistance, and what kind of assistance
 
 **The question it answers:** *"Should I use AI for this, and how much should I rely on it?"*
 
@@ -152,7 +152,7 @@ AI provides substantial help, but you're actively shaping the work throughout.
 **Characteristics of these tasks:**
 - Require some professional judgment
 - Benefit from speed or breadth AI provides
-- Medium risk — errors would be noticed
+- Medium risk, errors would be noticed
 - Iterative process (multiple rounds of refinement)
 
 **Examples:**
@@ -173,7 +173,7 @@ You lead the work. AI handles specific sub-tasks within it.
 **Characteristics of these tasks:**
 - Complex overall, but contain routine components
 - Require strategic thinking or creative direction
-- High stakes — quality matters significantly
+- High stakes, quality matters significantly
 - AI can accelerate specific parts
 
 **Examples:**
@@ -242,7 +242,7 @@ Ask yourself these questions about any task:
 
 **The question it answers:** *"How do I ask AI for what I actually need?"*
 
-**The mindset — conversation, not delegation:** prompting is not an incantation. It's briefing a capable junior colleague who knows nothing about your job. Everything you'd tell a smart new hire before they drafted this for you belongs in the prompt. The tool returns the form of the work; you supply the substance — the intent, the background, the standard it will be judged against.
+**The mindset, conversation, not delegation:** prompting is not an incantation. It's briefing a capable junior colleague who knows nothing about your job. Everything you'd tell a smart new hire before they drafted this for you belongs in the prompt. The tool returns the form of the work; you supply the substance, the intent, the background, the standard it will be judged against.
 
 ---
 
@@ -250,7 +250,7 @@ Ask yourself these questions about any task:
 
 Every effective prompt contains some combination of these four elements:
 
-### R — Role
+### R, Role
 
 Tell the AI who it should be.
 
@@ -266,7 +266,7 @@ Tell the AI who it should be.
 
 ---
 
-### T — Task
+### T, Task
 
 Tell the AI exactly what to do.
 
@@ -286,15 +286,15 @@ Tell the AI exactly what to do.
 
 ---
 
-### C — Context
+### C, Context
 
 Give the AI the background it needs.
 
-**Why it matters:** AI doesn't know your company, your audience, your history, or your constraints. Without context, it gives generic output. Context is the *grounding* only you can supply — it's the part of the work the tool genuinely cannot do for you.
+**Why it matters:** AI doesn't know your company, your audience, your history, or your constraints. Without context, it gives generic output. Context is the *grounding* only you can supply, it's the part of the work the tool genuinely cannot do for you.
 
 **Types of context to provide:**
 - **Audience:** "This is for senior executives who are not technical"
-- **Stakes:** "Write this for someone who has to decide this week and can't undo it" — real stakes sharpen the rigour of the output
+- **Stakes:** "Write this for someone who has to decide this week and can't undo it", real stakes sharpen the rigour of the output
 - **Background:** "We're a mid-sized retail company with 500 employees"
 - **Constraints:** "Keep it under 300 words" or "Use Australian English"
 - **Situation:** "We just lost a major client and need to reassure the team"
@@ -304,7 +304,7 @@ Give the AI the background it needs.
 
 ---
 
-### F — Format
+### F, Format
 
 Tell the AI how to structure the output.
 
@@ -333,7 +333,7 @@ Tell the AI how to structure the output.
 >
 > **Task:** Write an email to the client explaining that our project delivery will be delayed by 2 weeks.
 >
-> **Context:** The delay is due to a vendor dependency — their API integration took longer than expected. The client is generally understanding but values transparency. We have a good relationship. The new delivery date is March 15.
+> **Context:** The delay is due to a vendor dependency, their API integration took longer than expected. The client is generally understanding but values transparency. We have a good relationship. The new delivery date is March 15.
 >
 > **Format:** Keep the email under 200 words. Use a professional but warm tone. Structure as: acknowledge the delay, explain the reason briefly, confirm the new date, reaffirm our commitment.
 
@@ -452,7 +452,7 @@ Start broad, then narrow down:
 | 4 | **Drivers** | "What factors seem most associated with high return rates?" |
 | 5 | **Recommendations** | "Based on this analysis, what are the top 3 actions you'd recommend to reduce returns?" |
 
-**Tip:** Each question builds on the previous answer. If something in the AI's response surprises you, follow up: "You mentioned Region C has the highest returns — break that down by product category."
+**Tip:** Each question builds on the previous answer. If something in the AI's response surprises you, follow up: "You mentioned Region C has the highest returns, break that down by product category."
 
 ---
 
@@ -485,8 +485,8 @@ Start broad, then narrow down:
 Common refinement prompts:
 - "Break this down further by [category]"
 - "Exclude [outliers/time period] and re-run the analysis"
-- "Focus only on [specific segment] — what patterns emerge?"
-- "The return rate you calculated seems high — double-check your methodology"
+- "Focus only on [specific segment], what patterns emerge?"
+- "The return rate you calculated seems high, double-check your methodology"
 - "Create a chart showing [specific comparison]"
 
 **Tip:** The best analyses come from 3-5 rounds of questioning and refinement, not from a single prompt.
@@ -539,7 +539,7 @@ Common refinement prompts:
 
 ### The Four Opportunity Types
 
-### 1. Automate — High-Volume, Repetitive Tasks
+### 1. Automate, High-Volume, Repetitive Tasks
 
 **The signal:** You do it frequently, it follows the same pattern, and it doesn't require judgment.
 
@@ -556,7 +556,7 @@ Common refinement prompts:
 
 ---
 
-### 2. Assist — Information Synthesis and Research
+### 2. Assist, Information Synthesis and Research
 
 **The signal:** You spend time reading, gathering, comparing, or summarising information from multiple sources.
 
@@ -573,9 +573,9 @@ Common refinement prompts:
 
 ---
 
-### 3. Generate — Content Drafting and Creation
+### 3. Generate, Content Drafting and Creation
 
-**The signal:** You create written content regularly — emails, reports, proposals, presentations, documentation.
+**The signal:** You create written content regularly, emails, reports, proposals, presentations, documentation.
 
 **Examples:**
 | Task | AI Generation |
@@ -590,7 +590,7 @@ Common refinement prompts:
 
 ---
 
-### 4. Analyse — Data Review and Pattern Detection
+### 4. Analyse, Data Review and Pattern Detection
 
 **The signal:** You work with data, spreadsheets, or reports and need to find meaning in them.
 
@@ -619,9 +619,9 @@ Write down everything you do in a typical week that takes more than 15 minutes.
 
 | Task | Category | Current Time | AI Potential |
 |------|----------|-------------|-------------|
-| *Example: Write weekly status report* | Generate | 45 min | High — AI can draft from my notes |
-| *Example: Review team expense claims* | Analyse | 30 min | Medium — AI can flag outliers |
-| *Example: Coach underperforming team member* | Human-Only | 60 min | None — requires empathy |
+| *Example: Write weekly status report* | Generate | 45 min | High, AI can draft from my notes |
+| *Example: Review team expense claims* | Analyse | 30 min | Medium, AI can flag outliers |
+| *Example: Coach underperforming team member* | Human-Only | 60 min | None, requires empathy |
 | | | | |
 | | | | |
 | | | | |
@@ -681,7 +681,7 @@ Step 4: WHERE else in my work can AI help?
 **In practice:**
 
 1. **Encounter a task** at work
-2. **Check the Spectrum** — is this AI-Led, AI-Assisted, Human-Led, or Human-Only?
+2. **Check the Spectrum**: is this AI-Led, AI-Assisted, Human-Led, or Human-Only?
 3. **If AI is involved**, write a prompt using **RTCF**
 4. **If the task involves data**, follow the **Analysis Workflow**
 5. **Once a week**, use the **Opportunity Finder** to spot new tasks to try with AI
@@ -768,8 +768,8 @@ Step 4: WHERE else in my work can AI help?
 | Tool | Remember This |
 |-----------|--------------|
 | **Trust Tool** | Average or precise? Small or large stakes? That tells you how much to check |
-| **Suitability Spectrum** | Not every task needs AI — know the zones |
-| **RTCF** | Role, Task, Context, Format — brief it like a colleague |
+| **Suitability Spectrum** | Not every task needs AI, know the zones |
+| **RTCF** | Role, Task, Context, Format, brief it like a colleague |
 | **Analysis Workflow** | Prepare the question before you touch the tool |
 | **Opportunity Finder** | Start with quick wins, build from there |
 
@@ -777,11 +777,21 @@ Step 4: WHERE else in my work can AI help?
 
 ### Key Principles Across All Frameworks
 
-- **Conversation, not delegation** — brief AI like a capable junior colleague; the substance comes from you
-- **Your judgement is the edge** — everyone has the same tools; what you add is what differentiates
-- **Verify from outside** — the tool can't reliably check its own work; especially facts, numbers, and reasoning
-- **Start small, build confidence** — quick wins before big workflows
-- **Iterate, don't accept** — first drafts are starting points
+- **Conversation, not delegation**: brief AI like a capable junior colleague; the substance comes from you
+- **Your judgement is the edge**: everyone has the same tools; what you add is what differentiates
+- **Verify from outside**: the tool can't reliably check its own work; especially facts, numbers, and reasoning
+- **Start small, build confidence**: quick wins before big workflows
+- **Iterate, don't accept**: first drafts are starting points
+
+---
+
+### Agents, Harnesses, and Skills: A Field Guide
+
+The next step past chat is the **agent**: AI that plans and acts in a loop with tools (search, files, other software) until a job is done. What shapes that loop is the **harness**: the software around the model, its standing instructions, the context it can read, the tools it may call, and the model it runs on.
+
+The part you own is the **skill**: a plain-text brief in a folder that the harness loads when your request matches it. Your RTCF structure, your output format, and your verification rules are exactly what belongs in one. Because a skill is just text, it moves with you between tools.
+
+And the trust tool still applies: **an agent automates the loop, not the standard.** A loop that checks its own work inherits the model's blind spots. Whatever an agent produces still needs your check, from outside.
 
 ---
 
@@ -792,13 +802,13 @@ Assistants increasingly learn across sessions. That knowledge lives in **three s
 | Store | What It Is | How to Manage It |
 |-------|-----------|------------------|
 | **What you told it** | Explicit facts you asked it to save ("remember that I prefer...") | Review and delete in memory/personalisation settings |
-| **What it inferred** | Patterns drawn from your chats — why an assistant can start to feel "too personal" | Separate toggle; deleting chats does **not** delete this |
+| **What it inferred** | Patterns drawn from your chats, why an assistant can start to feel "too personal" | Separate toggle; deleting chats does **not** delete this |
 | **The chats themselves** | The conversation history you can see | Delete individually or in bulk via your account's privacy/data settings |
 
 **Practices:**
-- **Review periodically** — look for "memory", "personalisation", or "data controls" in settings (names vary by platform)
-- **Use private/temporary mode** for anything you don't want the assistant to learn — it doesn't read from or write to memory
-- **At work**, enterprise settings are controlled by your IT team — check what's approved before assuming where your data goes
+- **Review periodically**: look for "memory", "personalisation", or "data controls" in settings (names vary by platform)
+- **Use private/temporary mode** for anything you don't want the assistant to learn, it doesn't read from or write to memory
+- **At work**, enterprise settings are controlled by your IT team, check what's approved before assuming where your data goes
 
 *Deleting a chat removes the conversation, not necessarily what was learned from it. Deleting inferred memory is a separate action.*
 
@@ -807,8 +817,8 @@ Assistants increasingly learn across sessions. That knowledge lives in **three s
 ### Additional Resources
 
 **Further Learning:**
-- Course 2: *AI-Driven Business Innovation* — Strategic AI investment decisions
-- Course 3: *AI Leadership & Project Management* — Leading AI project delivery
+- Course 2: *AI-Driven Business Innovation*, Strategic AI investment decisions
+- Course 3: *AI Leadership & Project Management*, Leading AI project delivery
 
 **Stay Connected:**
 - michael.borck@curtin.edu.au

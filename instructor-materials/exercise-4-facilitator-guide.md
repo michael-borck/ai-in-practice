@@ -1,8 +1,8 @@
-# Exercise 4: Your AI-Enhanced Workflow — Facilitator Guide
+# Exercise 4: Your AI-Enhanced Workflow, Facilitator Guide
 
 **Duration:** 40 minutes (3:20-4:00 PM)
 **Frameworks used:** AI Opportunity Finder, RTCF Prompt Framework, AI Task Suitability Spectrum
-**Core learning:** AI fits into specific parts of real work — the skill is knowing which parts to delegate and which to keep.
+**Core learning:** AI fits into specific parts of real work, the skill is knowing which parts to delegate and which to keep.
 
 ---
 
@@ -10,9 +10,9 @@
 
 **Materials needed:**
 - Workflow Mapping Template (1 per participant, printed)
-- Frameworks Reference Sheet (already distributed — they'll use the Opportunity Finder)
+- Frameworks Reference Sheet (already distributed, they'll use the Opportunity Finder)
 
-**No technology setup needed** — participants use whatever AI tool they prefer from earlier exercises.
+**No technology setup needed**: participants use whatever AI tool they prefer from earlier exercises.
 
 ---
 
@@ -26,7 +26,7 @@ It's also the exercise where some participants freeze. Choosing a real task and 
 
 ## The Exercise
 
-### Setup (5 min) — 3:15 PM
+### Setup (5 min), 3:15 PM
 
 Distribute the Workflow Mapping Template (if not already distributed).
 
@@ -34,9 +34,9 @@ Distribute the Workflow Mapping Template (if not already distributed).
 
 > "Everything today has used our scenarios and our data. This exercise is about you.
 >
-> Here's what you're going to do: pick one task you do at least weekly that takes 30 minutes or more. Something you find repetitive or time-consuming. Then you'll map out how you do it today — every step. And then you'll redesign that workflow with AI at the steps where it adds value.
+> Here's what you're going to do: pick one task you do at least weekly that takes 30 minutes or more. Something you find repetitive or time-consuming. Then you'll map out how you do it today, every step. And then you'll redesign that workflow with AI at the steps where it adds value.
 >
-> This isn't theoretical. By the end, you should have a before-and-after diagram of a real task from your real job — and you'll have tested at least one step live.
+> This isn't theoretical. By the end, you should have a before-and-after diagram of a real task from your real job, and you'll have tested at least one step live.
 >
 > Take 2 minutes right now to choose your task. If you're stuck, I have suggestions."
 
@@ -56,7 +56,7 @@ Distribute the Workflow Mapping Template (if not already distributed).
 
 **If someone picks something too complex** (e.g., "our entire quarterly planning process"):
 
-> "That's a great long-term project. For today, let's zoom into one piece of it — maybe the part where you gather data, or the part where you write the summary. Which piece is most repetitive?"
+> "That's a great long-term project. For today, let's zoom into one piece of it, maybe the part where you gather data, or the part where you write the summary. Which piece is most repetitive?"
 
 **Common good choices:**
 - Writing a weekly status report / team update
@@ -69,11 +69,11 @@ Distribute the Workflow Mapping Template (if not already distributed).
 
 ---
 
-### Part 1: Map (10 min) — 3:20 PM
+### Part 1: Map (10 min), 3:20 PM
 
 **Your script:**
 
-> "Map your current workflow. Write every step in the table on your worksheet — what you do, what tool you use, and roughly how long each step takes. Be honest and specific. Include the boring parts — the copying, the formatting, the switching between systems."
+> "Map your current workflow. Write every step in the table on your worksheet, what you do, what tool you use, and roughly how long each step takes. Be honest and specific. Include the boring parts, the copying, the formatting, the switching between systems."
 
 **Your role:** Circulate and check that:
 - Tasks are specific enough (not "do my job" but "create the weekly client report")
@@ -84,7 +84,7 @@ Distribute the Workflow Mapping Template (if not already distributed).
 
 ---
 
-### Part 2: Redesign (15 min) — 3:30 PM
+### Part 2: Redesign (15 min), 3:30 PM
 
 **Your script:**
 
@@ -101,8 +101,8 @@ Distribute the Workflow Mapping Template (if not already distributed).
 | Behaviour | Your Move |
 |-----------|-----------|
 | Participant marks everything as "AI-Led" | "Really? Every step? Which steps require your judgment or your relationships? Those should stay human." |
-| Participant marks everything as "Human-Only" | "Let's look at step 3 — you said you copy data from one system to another. Could AI help with that?" |
-| Participant is designing a complex automation | "For today, focus on what you could do with ChatGPT or Claude — not a full automation platform. Save Zapier for later." |
+| Participant marks everything as "Human-Only" | "Let's look at step 3, you said you copy data from one system to another. Could AI help with that?" |
+| Participant is designing a complex automation | "For today, focus on what you could do with ChatGPT or Claude, not a full automation platform. Save Zapier for later." |
 | Participant is stuck on redesign | "Don't redesign the whole thing. Pick the ONE step that's most tedious and start there." |
 | Participant has a great before/after | "This is strong. Would you be willing to share a 2-minute version in Part 4?" |
 
@@ -110,11 +110,11 @@ Distribute the Workflow Mapping Template (if not already distributed).
 
 ---
 
-### Part 3: Test (10 min) — 3:45 PM
+### Part 3: Test (10 min), 3:45 PM
 
 **Your script:**
 
-> "Pick one step — the most promising AI-assisted step in your new workflow. Try it right now, for real. Write the prompt using RTCF, run it, and see what you get. You have 10 minutes."
+> "Pick one step, the most promising AI-assisted step in your new workflow. Try it right now, for real. Write the prompt using RTCF, run it, and see what you get. You have 10 minutes."
 
 **Your role:** Move quickly between tables. Help with prompt-writing if needed, but mostly observe.
 
@@ -129,17 +129,17 @@ Distribute the Workflow Mapping Template (if not already distributed).
 
 ---
 
-### Part 4: Share (5 min) — 3:55 PM
+### Part 4: Share (5 min), 3:55 PM
 
 **Your script:**
 
-> "Quick round — 2 minutes each. Tell your table:
+> "Quick round, 2 minutes each. Tell your table:
 > 1. What's the task?
 > 2. Which step did you redesign with AI?
 > 3. What happened when you tested it?
 > 4. What will you try at work this week?
 >
-> One person per table, volunteer — go."
+> One person per table, volunteer, go."
 
 **Your role:** Listen for strong examples you can reference in the wrap-up. If time permits and there's a particularly compelling before/after, ask that person to share with the whole room (30 seconds).
 
@@ -164,7 +164,7 @@ Distribute the Workflow Mapping Template (if not already distributed).
 
 **Your script:**
 
-> "You now have something none of the exercises before this gave you — a plan for YOUR work. Not a practice scenario. YOUR weekly task, YOUR workflow, YOUR AI-enhanced redesign.
+> "You now have something none of the exercises before this gave you, a plan for YOUR work. Not a practice scenario. YOUR weekly task, YOUR workflow, YOUR AI-enhanced redesign.
 >
 > In the wrap-up, you'll turn this into a commitment. What will you actually try this week? Let's lock that in."
 

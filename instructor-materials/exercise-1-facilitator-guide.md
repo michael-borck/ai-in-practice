@@ -1,8 +1,8 @@
-# Exercise 1: AI Tool Test Drive — Facilitator Guide
+# Exercise 1: AI Tool Test Drive, Facilitator Guide
 
 **Duration:** 40 minutes (9:50-10:30 AM)
 **Frameworks used:** AI Task Suitability Spectrum
-**Core learning:** AI tools give different outputs for the same input — none are perfect, and knowing their strengths helps you choose the right one.
+**Core learning:** AI tools give different outputs for the same input, none are perfect, and knowing their strengths helps you choose the right one.
 
 ---
 
@@ -17,24 +17,24 @@
 - Check that participants who couldn't set up accounts during intro have been helped
 
 **Technology fallback:**
-- If a participant can only access one tool, pair them with someone who has a different tool — they'll compare side by side
+- If a participant can only access one tool, pair them with someone who has a different tool, they'll compare side by side
 - If wifi is shaky, reduce from 3 tools to 2
 
 ---
 
 ## The Exercise
 
-### Setup (5 min) — 9:50 AM
+### Setup (5 min), 9:50 AM
 
 **Your script:**
 
 > "You've heard me describe what AI tools can and can't do. Now let's test it. Here's what you're going to do:
 >
-> I'm about to give you a single workplace task. You'll type the EXACT SAME prompt into 2 or 3 different AI tools — ChatGPT, Claude, Gemini, whatever you have access to. Same words, same task.
+> I'm about to give you a single workplace task. You'll type the EXACT SAME prompt into 2 or 3 different AI tools, ChatGPT, Claude, Gemini, whatever you have access to. Same words, same task.
 >
 > Then compare the outputs. What's different? What's better? What's worse? Did any of them get it wrong?
 >
-> This isn't about finding the 'best' tool. It's about seeing that these tools think differently — and that matters."
+> This isn't about finding the 'best' tool. It's about seeing that these tools think differently, and that matters."
 
 **Display the task on the projector:**
 
@@ -46,18 +46,18 @@
 
 **Your instruction:**
 
-> "Type this prompt exactly as written into each of your AI tools. Don't modify it — we want to see how different tools handle the same input. You have about 10 minutes to run the prompt and read the outputs. Then we'll compare."
+> "Type this prompt exactly as written into each of your AI tools. Don't modify it, we want to see how different tools handle the same input. You have about 10 minutes to run the prompt and read the outputs. Then we'll compare."
 
 ---
 
-### Individual Work (10 min) — 9:55 AM
+### Individual Work (10 min), 9:55 AM
 
 **Your role:** Circulate the room. Look for:
 
 **Good signs:**
 - Participants are reading outputs carefully, not just skimming
 - People are already comparing and pointing things out to neighbours
-- Someone notices a factual error or questionable advice — excellent
+- Someone notices a factual error or questionable advice, excellent
 
 **Things to prompt:**
 - If someone finishes quickly: "Which response would you actually use? Why?"
@@ -65,12 +65,12 @@
 - If someone only has one tool: "Share your screen with your neighbour and compare"
 
 **Don't:**
-- Get drawn into troubleshooting one person's laptop for 10 minutes — pair them up and move on
-- Tell people which output is "better" — they need to form their own judgment
+- Get drawn into troubleshooting one person's laptop for 10 minutes, pair them up and move on
+- Tell people which output is "better", they need to form their own judgment
 
 ---
 
-### Table Discussion (10 min) — 10:05 AM
+### Table Discussion (10 min), 10:05 AM
 
 **Your script:**
 
@@ -78,18 +78,18 @@
 >
 > 1. **What was different?** Look at tone, structure, length, and specific advice. Which tool gave the most practical response?
 >
-> 2. **Did any of them get something wrong — or give advice you wouldn't follow?** Maybe something was too aggressive, too passive, legally risky, or just generic.
+> 2. **Did any of them get something wrong, or give advice you wouldn't follow?** Maybe something was too aggressive, too passive, legally risky, or just generic.
 >
-> 3. **Which response would you actually use as a starting point?** Not which is 'best' in theory — which would you actually copy into a document and start editing?"
+> 3. **Which response would you actually use as a starting point?** Not which is 'best' in theory, which would you actually copy into a document and start editing?"
 
 **Your role during discussion:**
 - Visit each table briefly
-- Listen for interesting comparisons — you'll use these in the debrief
+- Listen for interesting comparisons, you'll use these in the debrief
 - If a table is quiet, prompt with: "Did anyone notice differences in how the tools structured the response?" or "Did any tool mention anything the others missed?"
 
 ---
 
-### Whole-Room Debrief (15 min) — 10:15 AM
+### Whole-Room Debrief (15 min), 10:15 AM
 
 **Your script:**
 
@@ -103,7 +103,7 @@ Listen for:
 - "One gave a step-by-step plan, another was more principles-based"
 - "One mentioned legal considerations the others didn't"
 
-**Your move:** Draw out 3-4 observations. Connect them: "So the same prompt produced meaningfully different advice. That's important — the tool you choose affects the output you get."
+**Your move:** Draw out 3-4 observations. Connect them: "So the same prompt produced meaningfully different advice. That's important, the tool you choose affects the output you get."
 
 **Question 2: "Did any tool give bad advice?"**
 
@@ -115,11 +115,11 @@ Listen for:
 
 **Your move:** If someone caught an error or bad advice, spotlight it. This is the hallucination / overconfidence lesson in action.
 
-> "This is exactly why the first framework matters — the AI Task Suitability Spectrum. This people-management scenario sits in the Human-Led, AI-Supported zone. AI can help you think through the situation and draft a plan — but the conversation itself, the empathy, reading the room? That's Human-Only."
+> "This is exactly why the first framework matters, the AI Task Suitability Spectrum. This people-management scenario sits in the Human-Led, AI-Supported zone. AI can help you think through the situation and draft a plan, but the conversation itself, the empathy, reading the room? That's Human-Only."
 
-**Then apply the trust tool** (first reuse of the day — make it explicit):
+**Then apply the trust tool** (first reuse of the day, make it explicit):
 
-> "Now the trust tool. This output: is an average good enough, or did it need to be exactly right? Mostly average — it's a starting plan you'd shape. Stakes? Large-ish — someone's job. That's the 'lean in, with a glance' corner: useful, but you sanity-check before anything happens. Notice we used it without noticing. That's the point — you'll use this grid on every output today."
+> "Now the trust tool. This output: is an average good enough, or did it need to be exactly right? Mostly average, it's a starting plan you'd shape. Stakes? Large-ish, someone's job. That's the 'lean in, with a glance' corner: useful, but you sanity-check before anything happens. Notice we used it without noticing. That's the point, you'll use this grid on every output today."
 
 **Question 3: "If you could only use one tool going forward, which would you pick and why?"**
 
@@ -129,7 +129,7 @@ Listen for:
 
 **Your move:** Normalise tool preference.
 
-> "There's no objectively 'best' tool. Different tools suit different tasks and different people. What matters is that you try a few, find what works for your type of work, and — critically — never assume the first output is ready to use."
+> "There's no objectively 'best' tool. Different tools suit different tasks and different people. What matters is that you try a few, find what works for your type of work, and, critically, never assume the first output is ready to use."
 
 ---
 
@@ -137,9 +137,9 @@ Listen for:
 
 **Your script:**
 
-> "You just saw what happens when you give AI a prompt without any special technique — you get something usable but imperfect, and different tools give different results.
+> "You just saw what happens when you give AI a prompt without any special technique, you get something usable but imperfect, and different tools give different results.
 >
-> After the break, we're going to dramatically improve what you get back. And here's a hint about how: it's less about clever wording than you'd think. The reframe is that prompting isn't a spell — it's a briefing. Everything you'd tell a capable junior colleague before they drafted this for you belongs in the prompt. You'll experience the difference yourself."
+> After the break, we're going to dramatically improve what you get back. And here's a hint about how: it's less about clever wording than you'd think. The reframe is that prompting isn't a spell, it's a briefing. Everything you'd tell a capable junior colleague before they drafted this for you belongs in the prompt. You'll experience the difference yourself."
 
 ---
 
@@ -148,9 +148,9 @@ Listen for:
 | Situation | Your Move |
 |-----------|-----------|
 | Table finishes in 5 minutes | Ask them to try a second task of their own choosing |
-| Someone declares one tool "the winner" | Ask: "Would it still be the winner for a different task — say, analysing a spreadsheet?" |
+| Someone declares one tool "the winner" | Ask: "Would it still be the winner for a different task, say, analysing a spreadsheet?" |
 | Participant is anxious about using AI | Reassure: "This is a safe space to experiment. No one's being graded." |
-| All tools gave similar output | Ask: "Try adding more detail to the prompt — mention the person's tenure, your management style, or the company culture. Do the responses diverge more?" |
+| All tools gave similar output | Ask: "Try adding more detail to the prompt, mention the person's tenure, your management style, or the company culture. Do the responses diverge more?" |
 | Someone asks which tool you prefer | Be honest if you have a preference, but emphasise: "It depends on the task. I use different tools for different things." |
 
 ---

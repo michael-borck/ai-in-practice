@@ -1,6 +1,6 @@
 # Image Specifications for Slide Deck
 
-Each image below is referenced in `content/slide-deck.md`. Create as PNG files at 1920x1080 (16:9) or similar presentation resolution. Style should be clean, professional, and consistent across the set — similar to the other courses in the series.
+Each image below is referenced in `content/slide-deck.md`. Create as PNG files at 1920x1080 (16:9) or similar presentation resolution. Style should be clean, professional, and consistent across the set, similar to the other courses in the series.
 
 ---
 
@@ -8,7 +8,7 @@ Each image below is referenced in `content/slide-deck.md`. Create as PNG files a
 
 ### 1. welcome-human-ai-collaboration.png
 **Slide:** Welcome
-**Depicts:** A professional at a desk working alongside AI — laptop screen showing a chat interface, person thinking/reviewing. Collaborative mood, not futuristic or sci-fi. Modern office setting.
+**Depicts:** A professional at a desk working alongside AI, laptop screen showing a chat interface, person thinking/reviewing. Collaborative mood, not futuristic or sci-fi. Modern office setting.
 **Style:** Warm, inviting, inclusive. Multiple professionals of different backgrounds if possible.
 
 ### 2. ai-pattern-matching.png
@@ -38,7 +38,7 @@ With icons or small illustrations for each zone. Arrow showing "More AI" on left
 
 ### 6. prompt-workshop.png
 **Slide:** Exercise 2: Prompt Engineering Workshop
-**Depicts:** Three ascending steps or rounds labelled "Round 1: Baseline," "Round 2: RTCF," "Round 3: Advanced" — conveying skill progression. Could show quality bars increasing.
+**Depicts:** Three ascending steps or rounds labelled "Round 1: Baseline," "Round 2: RTCF," "Round 3: Advanced", conveying skill progression. Could show quality bars increasing.
 **Style:** Progress/improvement visual. Energetic.
 
 ### 7. data-analysis-workflow.png
@@ -59,7 +59,7 @@ Each step with a small icon. The "Verify" step should be visually emphasised (la
 - Centre: Chat tools (ChatGPT, Claude, Gemini)
 - Surrounding: Productivity (Copilot, Google AI), Automation (Zapier, Make), Specialist (Grammarly, Otter)
 Conveying that chat is just one part of a broader AI ecosystem.
-**Style:** Ecosystem/map visual. Not exhaustive — representative.
+**Style:** Ecosystem/map visual. Not exhaustive, representative.
 
 ### 10. priority-matrix.png
 **Slide:** Start with Quick Wins

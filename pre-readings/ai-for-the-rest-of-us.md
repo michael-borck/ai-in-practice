@@ -2,16 +2,16 @@
 
 ## Summary
 
-AI tools like ChatGPT, Claude, and Gemini are now freely available to anyone with a browser. They can draft emails, summarise documents, analyse data, write code, and brainstorm ideas — but they also hallucinate facts, miss nuance, and confidently deliver nonsense. This pre-reading gives you the conceptual foundation you need before the workshop: how these tools actually work (pattern-matching, not thinking), what they're reliably good at, where they fall apart, and how to stay safe with company data. The goal isn't to make you an expert — it's to get you comfortable enough that the workshop can focus on building real skills, not explaining basics.
+AI tools like ChatGPT, Claude, and Gemini are now freely available to anyone with a browser. They can draft emails, summarise documents, analyse data, write code, and brainstorm ideas, but they also hallucinate facts, miss nuance, and confidently deliver nonsense. This pre-reading gives you the conceptual foundation you need before the workshop: how these tools actually work (pattern-matching, not thinking), what they're reliably good at, where they fall apart, and how to stay safe with company data. The goal isn't to make you an expert, it's to get you comfortable enough that the workshop can focus on building real skills, not explaining basics.
 
 **Reading time:** 20 minutes
-**Key takeaway:** AI tools are powerful pattern-matching assistants, not intelligent colleagues — the better you understand what's actually happening, the better results you'll get.
+**Key takeaway:** AI tools are powerful pattern-matching assistants, not intelligent colleagues, the better you understand what's actually happening, the better results you'll get.
 
 ---
 
 ## Who This Is For
 
-This is not a reading for executives making investment decisions or project managers leading AI initiatives. This is for **you** — a professional who wants to use AI tools effectively in your daily work.
+This is not a reading for executives making investment decisions or project managers leading AI initiatives. This is for **you**: a professional who wants to use AI tools effectively in your daily work.
 
 You might be:
 - A marketing coordinator who's heard ChatGPT can draft copy
@@ -32,9 +32,9 @@ When people say "AI" today, they usually mean one of these:
 
 | Tool | Made By | What It Is |
 |------|---------|------------|
-| ChatGPT | OpenAI | Conversational AI — chat, write, analyse, code |
-| Claude | Anthropic | Conversational AI — similar to ChatGPT, different strengths |
-| Gemini | Google | Conversational AI — integrated with Google Workspace |
+| ChatGPT | OpenAI | Conversational AI, chat, write, analyse, code |
+| Claude | Anthropic | Conversational AI, similar to ChatGPT, different strengths |
+| Gemini | Google | Conversational AI, integrated with Google Workspace |
 | Microsoft Copilot | Microsoft | AI embedded in Word, Excel, PowerPoint, Outlook |
 | Notion AI | Notion | AI built into the Notion workspace |
 | Grammarly | Grammarly | AI writing assistant |
@@ -52,7 +52,7 @@ That's it. When you type "Write me an email to a client about...", the AI doesn'
 Think of it as **autocomplete on steroids:**
 - Your phone's autocomplete predicts one word at a time
 - AI tools predict thousands of words at a time
-- The result often *looks* like understanding — but it's pattern-matching
+- The result often *looks* like understanding, but it's pattern-matching
 
 **Why this matters to you:**
 - AI is incredibly good at tasks where patterns exist (writing styles, document formats, data structures)
@@ -65,7 +65,7 @@ AI tools have a distinctive failure mode: **they never say "I don't know."**
 
 Ask a colleague a question they can't answer, and they'll say "I'm not sure, let me check." Ask an AI the same question, and it will give you a confident, well-structured, completely wrong answer.
 
-This is called **hallucination** — the AI generates plausible-sounding content that is factually incorrect.
+This is called **hallucination**: the AI generates plausible-sounding content that is factually incorrect.
 
 **Examples of hallucination:**
 - Citing academic papers that don't exist
@@ -97,7 +97,7 @@ These are tasks where AI tools consistently perform well:
 - Creating meeting summaries from notes
 - Extracting data from unstructured text
 
-**Why it works well:** The information is already there — AI just needs to identify what's important based on your instructions.
+**Why it works well:** The information is already there, AI just needs to identify what's important based on your instructions.
 
 **3. Brainstorming and Ideation**
 - Generating options you haven't considered
@@ -113,7 +113,7 @@ These are tasks where AI tools consistently perform well:
 - Creating consistent formatting across materials
 - Generating templates from examples
 
-**Why it works well:** Format conversion is pure pattern-matching — exactly what AI excels at.
+**Why it works well:** Format conversion is pure pattern-matching, exactly what AI excels at.
 
 **5. Explaining and Teaching**
 - Breaking down complex concepts into simple language
@@ -129,7 +129,7 @@ These are tasks where AI tools consistently perform well:
 - Running basic statistical analysis
 - Answering questions about datasets
 
-**Why it works well:** Data analysis follows well-defined procedures that AI can execute — but results need human interpretation.
+**Why it works well:** Data analysis follows well-defined procedures that AI can execute, but results need human interpretation.
 
 ---
 
@@ -169,7 +169,7 @@ These are tasks where AI tools regularly fail or produce unreliable results:
 - It can't read the room or understand office politics
 - It doesn't know what happened in yesterday's meeting
 
-**The fix:** Provide context explicitly. The more specific information you give, the more relevant the output. This is what prompt engineering is about — and it's the core of the workshop.
+**The fix:** Provide context explicitly. The more specific information you give, the more relevant the output. This is what prompt engineering is about, and it's the core of the workshop.
 
 **5. Consistency Across Long Conversations**
 - AI can contradict itself in long conversations
@@ -204,7 +204,7 @@ Chatbots are the most visible AI tools, but AI is increasingly embedded in softw
 - Make (workflow automation)
 - Power Automate (Microsoft ecosystem automation)
 
-**The trend:** AI is moving from "a separate tool you go to" to "a capability built into every tool you already use." Within a few years, using AI won't feel like a separate activity — it'll just be how software works.
+**The trend:** AI is moving from "a separate tool you go to" to "a capability built into every tool you already use." Within a few years, using AI won't feel like a separate activity, it'll just be how software works.
 
 ### Types of AI Assistance
 
@@ -222,17 +222,17 @@ In the workshop, we'll focus primarily on **chat assistant** and **co-pilot** in
 
 ---
 
-## Part 5: Staying Safe — Privacy, Security, and Common Sense
+## Part 5: Staying Safe, Privacy, Security, and Common Sense
 
 ### What Happens to Your Data?
 
 When you type something into an AI tool, you should assume:
 
 - **Free tiers:** Your input may be used to train future models. Don't enter sensitive data.
-- **Paid tiers:** Most providers (OpenAI, Anthropic, Google) have "no training" policies for paid accounts — but read the terms.
+- **Paid tiers:** Most providers (OpenAI, Anthropic, Google) have "no training" policies for paid accounts, but read the terms.
 - **Enterprise tiers:** Typically the strongest data protection guarantees.
 
-**Assistants can also remember you across sessions.** Modern AI assistants keep knowledge about you in up to three separate places: the facts you explicitly asked them to save, the inferences they've drawn from your conversations, and the chat history itself. Deleting a chat does not delete what the assistant learned from it — memory and personalisation settings are managed separately. If an assistant ever starts to feel "too personal", look in its settings for memory, personalisation, or data controls. And for conversations you'd rather it not learn from, use private or temporary chat mode, which doesn't read from or write to memory.
+**Assistants can also remember you across sessions.** Modern AI assistants keep knowledge about you in up to three separate places: the facts you explicitly asked them to save, the inferences they've drawn from your conversations, and the chat history itself. Deleting a chat does not delete what the assistant learned from it, memory and personalisation settings are managed separately. If an assistant ever starts to feel "too personal", look in its settings for memory, personalisation, or data controls. And for conversations you'd rather it not learn from, use private or temporary chat mode, which doesn't read from or write to memory.
 
 ### The Golden Rules
 
@@ -251,7 +251,7 @@ When you type something into an AI tool, you should assume:
 
 **3. Never publish AI output without review**
 - AI-generated content can contain errors, bias, or plagiarism
-- You are responsible for anything you send, publish, or submit — even if AI wrote it
+- You are responsible for anything you send, publish, or submit, even if AI wrote it
 - "The AI wrote it" is not a defence
 
 **4. Be transparent about AI use**
@@ -303,7 +303,7 @@ The best results come from combining AI speed with human judgment:
 | Format and structure | Verify accuracy and relevance |
 | Work fast | Think deep |
 
-**The professionals who get the most from AI aren't the ones who ask it to do everything — they're the ones who know exactly which parts to delegate and which to keep.** Everyone has access to the same tools, so generic AI skills are quickly becoming the baseline. The edge is your judgement: knowing what to ask for, when to trust the answer, and where a human must stay in charge. That judgement is the theme of the workshop — and you'll learn a simple grid for it, called the trust tool.
+**The professionals who get the most from AI aren't the ones who ask it to do everything, they're the ones who know exactly which parts to delegate and which to keep.** Everyone has access to the same tools, so generic AI skills are quickly becoming the baseline. The edge is your judgement: knowing what to ask for, when to trust the answer, and where a human must stay in charge. That judgement is the theme of the workshop, and you'll learn a simple grid for it, called the trust tool.
 
 ### It's OK to Be Skeptical
 
@@ -325,15 +325,15 @@ The workshop will help you develop practical judgment about when to trust AI out
 
 You'll need active accounts on at least two of these (free tiers are fine):
 
-1. **ChatGPT** — [chat.openai.com](https://chat.openai.com)
+1. **ChatGPT**: [chat.openai.com](https://chat.openai.com)
    - Create account with email
    - Free tier is sufficient
 
-2. **Claude** — [claude.ai](https://claude.ai)
+2. **Claude**: [claude.ai](https://claude.ai)
    - Create account with email
    - Free tier is sufficient
 
-3. **Google Gemini** — [gemini.google.com](https://gemini.google.com)
+3. **Google Gemini**: [gemini.google.com](https://gemini.google.com)
    - Uses your Google account
    - Free tier is sufficient
 
@@ -352,7 +352,7 @@ You'll use these in the workshop exercises.
 
 ### What to Bring
 
-- **Laptop** (not tablet — you'll need multiple browser tabs open)
+- **Laptop** (not tablet, you'll need multiple browser tabs open)
 - **Charger** (full day of screen work)
 - **A real task** from your work (optional but valuable for Exercise 4)
 - **Curiosity** and willingness to experiment
@@ -373,21 +373,21 @@ The workshop is hands-on. You'll spend most of the day working with AI tools, no
 
 ## Key Takeaways
 
-1. **AI tools predict the next word** — they're pattern-matching engines, not thinking machines. Understanding this changes how you use them.
+1. **AI tools predict the next word**: they're pattern-matching engines, not thinking machines. Understanding this changes how you use them.
 
-2. **Strong at drafting, weak at facts** — use AI for structure, writing, brainstorming, and formatting. Verify facts, numbers, and references yourself.
+2. **Strong at drafting, weak at facts**: use AI for structure, writing, brainstorming, and formatting. Verify facts, numbers, and references yourself.
 
-3. **Hallucination is the key risk** — AI delivers wrong answers with total confidence. Always review output critically.
+3. **Hallucination is the key risk**: AI delivers wrong answers with total confidence. Always review output critically.
 
-4. **Context is everything** — the more specific information you provide, the better the output. Vague prompts produce vague results.
+4. **Context is everything**: the more specific information you provide, the better the output. Vague prompts produce vague results.
 
-5. **Your data isn't necessarily private** — check your company's AI policy and never enter sensitive information into free-tier tools.
+5. **Your data isn't necessarily private**: check your company's AI policy and never enter sensitive information into free-tier tools.
 
-6. **AI is a tool, not a replacement** — the best results come from human expertise combined with AI speed. Know which parts to delegate.
+6. **AI is a tool, not a replacement**: the best results come from human expertise combined with AI speed. Know which parts to delegate.
 
-7. **Healthy skepticism is an asset** — question, verify, and test. The professionals who get the most from AI are the ones who know its limits.
+7. **Healthy skepticism is an asset**: question, verify, and test. The professionals who get the most from AI are the ones who know its limits.
 
-8. **Everyone is still figuring this out** — you're not behind. The technology is new and evolving. The workshop will give you practical skills to start using it effectively.
+8. **Everyone is still figuring this out**: you're not behind. The technology is new and evolving. The workshop will give you practical skills to start using it effectively.
 
 ---
 
@@ -398,24 +398,24 @@ Terms you'll hear in the workshop:
 | Term | Plain English |
 |------|--------------|
 | **Prompt** | The instructions or question you type into an AI tool |
-| **LLM (Large Language Model)** | The technology behind ChatGPT, Claude, Gemini — trained on text to predict words |
+| **LLM (Large Language Model)** | The technology behind ChatGPT, Claude, Gemini, trained on text to predict words |
 | **Hallucination** | When AI generates confident but incorrect information |
 | **Context window** | How much text the AI can "see" at once (like short-term memory) |
-| **Token** | A chunk of text (roughly 3/4 of a word) — how AI measures input/output |
+| **Token** | A chunk of text (roughly 3/4 of a word), how AI measures input/output |
 | **Fine-tuning** | Customising an AI model for a specific use case |
 | **RAG (Retrieval-Augmented Generation)** | Connecting AI to specific documents so it answers from your data |
 | **Prompt engineering** | The skill of writing effective prompts to get good AI output |
-| **BYOD** | Bring Your Own Device — you'll need your laptop for the workshop |
+| **BYOD** | Bring Your Own Device, you'll need your laptop for the workshop |
 | **Generative AI** | AI that creates new content (text, images, code) rather than just classifying or predicting |
 
 ---
 
 ## Further Reading
 
-These are optional — the pre-reading above is sufficient preparation for the workshop.
+These are optional, the pre-reading above is sufficient preparation for the workshop.
 
 - Mollick, Ethan. 2024. *Co-Intelligence: Living and Working with AI.* New York: Portfolio/Penguin.
 - Mollick, Ethan. "One Useful Thing" (Substack). Practical, regularly updated AI insights for professionals. [oneusefulthing.org](https://www.oneusefulthing.org/)
 - Anthropic. 2024. "Prompt Engineering Guide." [docs.anthropic.com/en/docs/build-with-claude/prompt-engineering](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering)
 - OpenAI. 2024. "Prompt Engineering Guide." [platform.openai.com/docs/guides/prompt-engineering](https://platform.openai.com/docs/guides/prompt-engineering)
-- Harvard Business Review. 2023. "AI Won't Replace Humans — But Humans With AI Will Replace Humans Without AI." HBR Digital.
+- Harvard Business Review. 2023. "AI Won't Replace Humans, But Humans With AI Will Replace Humans Without AI." HBR Digital.
