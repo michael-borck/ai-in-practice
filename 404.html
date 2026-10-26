@@ -6,9 +6,23 @@
 <meta name="robots" content="noindex">
 <link rel="canonical" href="https://michael-borck.github.io/the-human-edge/">
 <script>
-  // Keep the page path, query and anchor: /ai-in-practice/workbook.html -> /the-human-edge/workbook.html
-  var rest = location.pathname.replace(/^\/ai-in-practice/, '') || '/';
-  location.replace('https://michael-borck.github.io/the-human-edge' + rest + location.search + location.hash);
+  // Old site pages were renamed when the course became The Human Edge.
+  // Map them to their new home; otherwise keep the same page name.
+  var MAP = {
+    'ai-for-the-rest-of-us.html': 'before.html',
+    'frameworks.html': 'tools.html',
+    'frameworks-reference-sheet.html': 'tools.html',
+    'trust-tool.html': 'tools.html#trust-tool',
+    'overview.html': 'index.html',
+    'schedule.html': 'index.html#the-day',
+    'materials.html': 'resources.html',
+    'personal-action-plan-template.html': 'workbook.html',
+    'deck.html': 'deck/',
+    'slide-deck.pptx': 'downloads/slides.pdf'
+  };
+  var key = location.pathname.replace(/^\/ai-in-practice\/?/, '');
+  var to = MAP[key] || (key.indexOf('instructor/') === 0 ? 'index.html' : key);
+  location.replace('https://michael-borck.github.io/the-human-edge/' + to + location.search + (to.indexOf('#') < 0 ? location.hash : ''));
 </script>
 <meta http-equiv="refresh" content="1; url=https://michael-borck.github.io/the-human-edge/">
 <style>body{font:18px/1.5 system-ui,sans-serif;background:#0A0C10;color:#ECE7DB;display:grid;place-items:center;min-height:100vh;margin:0}a{color:#E8B54D}</style>
